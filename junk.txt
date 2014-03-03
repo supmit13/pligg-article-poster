@@ -1,0 +1,956 @@
+http://www.linkek.in/
+http://www.reise-news-in.de/
+http://www.sitelinkspartner.com
+http://www.smbookmarks.com
+
+
+
+=================================================================================================
+
+POST http://www.smbookmarks.com/register/
+
+Request Headers:
+================
+Host: www.smbookmarks.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.25) Gecko/20111212 Firefox/3.6.25
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://www.smbookmarks.com/register/
+Cookie: PHPSESSID=5b4op7o7nhvqtihfanhiv3ekp2; __utma=226391320.395244741.1326003023.1326003023.1326003023.1; __utmb=226391320.2.10.1326003023; __utmc=226391320; __utmz=226391320.1326003023.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+Response Headers:
+==================
+Date: Sun, 08 Jan 2012 06:12:59 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, max-age=600, private, must-revalidate
+Pragma: no-cache
+Location: http://www.smbookmarks.com/register_complete.php?user=testsup
+Vary: Accept-Encoding
+Content-Length: 0
+Keep-Alive: timeout=10, max=30
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+POST Data:
+===========
+recaptcha_challenge_field	03AHJ_Vut84TvTtyDWg74-CaxHk_ThQ4UNxIvcQgYZodCdPEvlg5ZBgVPwMMH_fh0N-nWX224dhaikiCBVxZhPPfwwoXtmMhDfwtmiVYCuTmv7_d3qPvDjVhVQR2Y14NQYOqXTxVp40hClh8IVRb-9MTq70Y2LW25JRw
+recaptcha_response_field	1st, eptsenti
+reg_email	you_know_who_13@rocketmail.com
+reg_password	spmprx
+reg_password2	spmprx
+reg_username	testsup
+regfrom	full
+submit	Create user
+
+Response Body:
+==============
+blank1.html
+
+============================================================================================================================
+GET http://www.smbookmarks.com/register_complete.php?user=testsup
+
+Request Headers:
+=================
+Host: www.smbookmarks.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.25) Gecko/20111212 Firefox/3.6.25
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://www.smbookmarks.com/register/
+Cookie: PHPSESSID=5b4op7o7nhvqtihfanhiv3ekp2; __utma=226391320.395244741.1326003023.1326003023.1326003023.1; __utmb=226391320.2.10.1326003023; __utmc=226391320; __utmz=226391320.1326003023.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+
+
+Response Headers:
+===================
+Date: Sun, 08 Jan 2012 06:13:01 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0, max-age=600, private, must-revalidate
+Pragma: no-cache
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+===============================================================================================
+
+GET http://www.keepyup.net/templates/xmlhttp.php
+
+
+================================================================================================
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_Vuv0gDVfLmQgL5WrCOJjGKUAFuWMrgCoXhfYGh5VvTOHbvIkETz6yRN5lc5rToSKSzeHSMFTeYTf1keB7oc0LQnlaDU0mZK81aUu57g_V5BRDnGqh3s-DjBjylhlqaAYYu-djOmqZ3QcZdrvCx6ov3O5KRppJw
+
+Image URL:  Image URL:  Image URL:  http://api.recaptcha.net/image?c=03AHJ_VuseCVaXmj0eX5SmgyWf3ml6AsRgi8ne3xYWTxgrwpopmRLf8Xa-ZSBCQ_g3kGTtBbB4CwQeirhWbEgWiHAHhBmM-kbEhoyDNdd94la2fvjrmYMa4hijZm5nMTiz3tQWsnUFJzOT1g3NyrBz7GcnGiPOExBazQ
+
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VusAycbrYrwKLKOOsioFUiBLwxWAg-u6ZIZa5dNystH6gNFd7XmcYQv123J1waFurvDOccZfeXcArVg08eiL_nHe8RCUYlp2-8WJA4dT-oX0j_5RLwvcjQlXRD5CETK6twIEVE59XtorE8IofijuGlEHLl0rhw
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_Vuta3Ij2Hir2qlRCWpN15QlQKq9nQkSO3PPAiYIG4L6WfvPkyeuSpjcbiUSmIOB4Aj5iwr6pxL30uHGVoa9VnGUx1pqCNK_LxeAs3UGqxr15kn1nkFWkdVejU-GpcDPmPv4ufc_vDU0Q2hKUUabOW7_eYzKziw
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VuueoM6oU3jiqB4cid2sXAJSNM0krHe98y7vVHVCDH13YbAO-1sb6-O4eAkF21W7x27Zl6xKdSanPyIwaGGVWj_pN4FjpZsLu3a-2Edgip8KiJcfo6T4zkAV3dFKkdOkJbDUylGoy0k3acLET08wnu6E4Vg78g
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VuuWqJsq9UENu-Z4G61KtLtOCep-UBRrQ_71ARm48g6HPOHYzm2nZi0fwwtul_OVrwhStZbzhu3xMwK8b_ulgo8sZk3zlvyJTAqXJo1GI18gkR8MHdg2h_zlvI7z6qI6BlkXsh_u_9lK6uRdlU4r1pmc7DuJoA
+
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VusQCVPAcEBuDEiEMa7V6uxxb0bqdq05lONrhzZ-jgEeTaCtNJtTBVlZxrDsTf3mezGa0nApchHiQbFzKTXqb47TgVbx1mF4TJ6pZd0EvSdWL9pjUc_lkq_bHtZ2hNW4lvJMOrzorWFAzePWG-1j0aMi8Sw1Rg
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_Vus-MUgJ5yysoPLbC0ESRfon_jrbI4CK8--pRUV1Qv4griWEIXZkE15f5bVbo7J8UDTojgNOY3bBufAHPuSCROGgXGB34jbpx4b5rF0h8OTaz7X3Hk_0Bx66vgvUzDU-o9n-PCfRc0iCjmL7Wxt8Vgd0wIJYcw
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_Vuui-hxnakfYaL-HeRVv_T88nu8X8YQ4O50E9zprkvAIjhY7QJ50-PRGwP7UvhFzG019GgRYdnBTvlTNw3Vb5oGdm0QsO7CuufvLLqleHWwIs1OZWRDZuFgIneFIIe6z4euXFqSAAQRp_gcVcZVMR7hJwL_txQ
+
+Image URL:  Image URL:  http://api.recaptcha.net/image?c=03AHJ_VuuRPIvHDO7JlpN8shsEVQCpySNQ3AlUGyjPxxC-zGbW5Wfdds-4c2tqgy40Tf9a13YVaUx6kpgqhy-nZkj93AS3w_TfG7-nwRmxo6KRcZAm17KTePJuj3BvbhPbfktbm-57JkWO7a4rHBGF55Mor2f72yk1PA
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VuvK5GX7763dfUx3u4-tQcOJB2PDbVey_VTJOwmGtaJJhFA8PMqNg611K0AUKnTMXIxVupgVq3BQ2cXFpiDH-2l4NFIdxCw5DC3UAlzqntj6deI9GYMDUCZbBNAWxNTi5psylYvnUbXk_9yFEfTd_JHGscKdsA
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VusPLO-NH3eCzgMIwH3vPVfKFxHUJ8Ak7c6X6Im2QHHL7csgxE-keWmOee6LLhufeuBPtx7uryzrQ6OQjsPqaWzZpNVQehumMTrgVHIo1zS7rpRNlcPuteX5zoSzu4mRRTzpfJngNAFAA37_Em3ucCEWdNTALQ
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_Vut2uJPtJ41_rbRivjGe0TtZY9XCBleYh0vG-ucvIqcKL-YvahjjDu1m_iglT3zn2hfn-cN6JHEk1iOJPgDu3qFPFP3syMe5lHVZRCF7fazfgRJ8lw9lSMRuNZUR6oYJTkKNEcj6TbVAp26J92ptdSrZ863-Gg
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VuvBcjVFA1GdRo7ehAo12bSHiYdO-soDP7AOVCK3EGS2WCIiIZkUvFwOaApSHPwU_SgVJlwtp5T6S-S_YIu2cnbSIdzGsi0ll1bB0gqDw7_o4UxO2URjqXmqLUOH5tfmXu_wz4V_m-ufcJ-p_xf09NOWnIOnkw
+
+
+ http://www.topbookmarksonline.com/register.php
+
+
+var my_base_url='http://www.keepyup.net';
+var my_pligg_base='';
+
+
+dochref = document.location.href.substr(document.location.href.search('/')+2, 1000);
+if(dochref.search('/') == -1){
+	$thisurl = document.location.href.substr(0,document.location.href.search('/')+2) + dochref;
+} else {
+	$thisurl = document.location.href.substr(0,document.location.href.search('/')+2) + dochref.substr(0, dochref.search('/'));
+}
+$thisurl = $thisurl + '';
+
+var xmlhttp
+/*@cc_on @*/
+/*@if (@_jscript_version >= 5)
+  try {
+  xmlhttp=new ActiveXObject("Msxml2.XMLHTTP")
+ } catch (e) {
+  try {
+	xmlhttp=new ActiveXObject("Microsoft.XMLHTTP")
+  } catch (E) {
+   xmlhttp=false
+  }
+ }
+@else
+ xmlhttp=false
+@end @*/
+
+if (!xmlhttp && typeof XMLHttpRequest != 'undefined')
+{
+  try {
+	xmlhttp = new XMLHttpRequest ();
+  }
+  catch (e) {
+  xmlhttp = false}
+}
+
+function myXMLHttpRequest ()
+{
+  var xmlhttplocal;
+  try {
+  	xmlhttplocal = new ActiveXObject ("Msxml2.XMLHTTP")}
+  catch (e) {
+	try {
+	xmlhttplocal = new ActiveXObject ("Microsoft.XMLHTTP")}
+	catch (E) {
+	  xmlhttplocal = false;
+	}
+  }
+
+  if (!xmlhttplocal && typeof XMLHttpRequest != 'undefined') {
+	try {
+	  var xmlhttplocal = new XMLHttpRequest ();
+	}
+	catch (e) {
+	  var xmlhttplocal = false;
+	}
+  }
+  return (xmlhttplocal);
+}
+
+var mnmxmlhttp = Array ();
+var xvotesString = Array ();
+var mnmPrevColor = Array ();
+var responsestring = Array ();
+var myxmlhttp = Array ();
+var responseString = new String;
+
+
+function vote (user, id, htmlid, md5, value)
+{
+  	if (xmlhttp) {
+		url = $thisurl + "/vote.php";
+		var mycontent = "id=" + id + "&user=" + user + "&md5=" + md5 + "&value=" + value;
+		anonymous_vote = false;
+        if (anonymous_vote == false && user == '0') {
+            window.location="http://www.keepyup.net/login.php?return="+location.href;
+        } else {
+    		mnmxmlhttp[htmlid] = new myXMLHttpRequest ();
+    		if (mnmxmlhttp) {
+    			mnmxmlhttp[htmlid].open ("POST", url, true);
+    			mnmxmlhttp[htmlid].setRequestHeader ('Content-Type',
+    					   'application/x-www-form-urlencoded');
+    
+    			mnmxmlhttp[htmlid].send (mycontent);
+    			errormatch = new RegExp ("^ERROR:");    
+    			target1 = document.getElementById ('xvotes-' + htmlid);    
+    			mnmPrevColor[htmlid] = target1.style.backgroundColor;
+    			mnmxmlhttp[htmlid].onreadystatechange = function () {
+    				if (mnmxmlhttp[htmlid].readyState == 4) {
+    					xvotesString[htmlid] = mnmxmlhttp[htmlid].responseText;
+    					if (xvotesString[htmlid].match (errormatch)) {
+    						xvotesString[htmlid] = xvotesString[htmlid].substring (6, xvotesString[htmlid].length);
+							changemnmvalues (htmlid, value, true);    					} else {
+							if (xvotesString[htmlid].substring (1, 6) == "ERROR") { alert(xvotesString[htmlid]);  } else {changemnmvalues (htmlid, value, false); }     					}
+    				}
+    			}
+    		}
+    	}
+	}
+}
+
+
+function unvote (user, id, htmlid, md5, value)
+{
+  	if (xmlhttp) {
+		url = $thisurl + "/vote.php";
+		var mycontent = "unvote=true&id=" + id + "&user=" + user + "&md5=" + md5 + "&value=" + value;
+		anonymous_vote = false;
+        if (anonymous_vote == false && user == '0') {
+            window.location="http://www.keepyup.net/login.php?return="+location.href;
+        } else {
+    		mnmxmlhttp[htmlid] = new myXMLHttpRequest ();
+    		if (mnmxmlhttp) {
+    			mnmxmlhttp[htmlid].open ("POST", url, true);
+    			mnmxmlhttp[htmlid].setRequestHeader ('Content-Type',
+    					   'application/x-www-form-urlencoded');
+    
+    			mnmxmlhttp[htmlid].send (mycontent);
+    			errormatch = new RegExp ("^ERROR:");    
+				target1 = document.getElementById ('xvotes-' + htmlid);
+  				target2 = document.getElementById ('xvote-' + htmlid);    
+    			mnmPrevColor[htmlid] = target1.style.backgroundColor;
+    			mnmxmlhttp[htmlid].onreadystatechange = function () {
+    				if (mnmxmlhttp[htmlid].readyState == 4) {
+    					xvotesString[htmlid] = mnmxmlhttp[htmlid].responseText;
+    					if (xvotesString[htmlid].match (errormatch)) {
+    						 xvotesString[htmlid] = xvotesString[htmlid].substring (6, xvotesString[htmlid].length);
+							changemnmvalues (htmlid, value, true);target2.innerHTML = "<span>Vote</span>";						} else {
+							if (xvotesString[htmlid].substring (1, 6) == "ERROR") { alert(xvotesString[htmlid]);  } else {target2.innerHTML = "<span>Vote</span>";changemnmvalues (htmlid, value, false); }							
+    					}
+    				}
+    			}
+    		}
+    	}
+	}
+}
+
+
+function cvote (user, id, htmlid, md5, value)
+{
+	if (xmlhttp) {
+		url = $thisurl + "/cvote.php";
+		mycontent = "id=" + id + "&user=" + user + "&md5=" + md5 + "&value=" + value;
+		anonymous_vote = false;
+
+        if (anonymous_vote == false && user == '0') {
+            window.location="http://www.keepyup.net/login.php?return="+location.href;
+        } else {
+    		mnmxmlhttp[htmlid] = new myXMLHttpRequest ();
+    		if (mnmxmlhttp) {
+    			mnmxmlhttp[htmlid].open ("POST", url, true);
+    			mnmxmlhttp[htmlid].setRequestHeader ('Content-Type', 'application/x-www-form-urlencoded');    
+    			mnmxmlhttp[htmlid].send (mycontent);
+    			errormatch = new RegExp ("^ERROR:");
+    			target1 = document.getElementById ('cvote-' + htmlid);        
+    			mnmPrevColor[htmlid] = target1.style.backgroundColor;
+    			target1.style.backgroundColor = '#FFFFFF';
+    			mnmxmlhttp[htmlid].onreadystatechange = function () {
+    				if (mnmxmlhttp[htmlid].readyState == 4) {
+    					xvotesString[htmlid] = mnmxmlhttp[htmlid].responseText;
+    					if (xvotesString[htmlid].match (errormatch)) {
+    						xvotesString[htmlid] = xvotesString[htmlid].substring (6, xvotesString[htmlid].length);						
+    						changecvotevalues (htmlid, true);							
+    					} else {
+							target1 = document.getElementById ('ratebuttons-' + id);
+							target1.style.display = "none";
+							target2 = document.getElementById ('ratetext-' + id);
+							target2.innerHTML = "Thank you for rating this comment.";
+							changecvotevalues (htmlid, false);
+    					}
+    				}
+    			}
+    		}
+    	}
+	}
+}
+
+function changemnmvalues (id, value, error)
+{
+	split = new RegExp ("~--~");
+	b = xvotesString[id].split (split);
+	target1 = document.getElementById ('xvotes-' + id);
+	target2 = document.getElementById ('xvote-' + id);
+	target3 = document.getElementById ('xreport-' + id);
+	target4 = document.getElementById ('xnews-' + id);
+//	if (error) {
+//		if (value > 0) { target2.innerHTML = "<span>Voted</span> "; }
+//		else if (value < 0) { target2.innerHTML = "<span>Buried</span> "; }
+//		return false;
+//	}
+	if (b.length <= 3) {
+		if (error) {
+			alert(b[0]);
+			return false;
+		}
+		target1.innerHTML = b[0];
+		target1.style.backgroundColor = mnmPrevColor[id];
+//		new Effect.Fade(target3);
+		if (value > 0) { target2.innerHTML = "<span>Voted</span> "; }
+		else if (value < 0 ) { target2.innerHTML = "<span>Buried</span> ";
+//		new Effect.Opacity(target4, {duration:0.8, from:1.0, to:0.3}); 
+		}
+	}
+	return false;
+}
+
+function changecvotevalues (id, error)
+{
+	split = new RegExp ("~--~");
+	b = xvotesString[id].split (split);
+	target1 = document.getElementById ('cvote-' + id);
+	if (error) {
+		return false;
+	}
+	if (b.length <= 3) {
+		target1.innerHTML = b[0];
+		target1.style.backgroundColor = mnmPrevColor[id];
+	}
+	return false;
+}
+
+
+function enablebutton (button, button2, target)
+{
+	var string = target.value;
+	button2.disabled = false;
+	if (string.length > 0) {
+		button.disabled = false;
+	} else {
+		button.disabled = true;
+	}
+}
+
+function checkfield (type, form, field)
+{
+	url = $thisurl + '/checkfield.php?type='+type;
+	checkitxmlhttp = new myXMLHttpRequest ();
+	checkitxmlhttp.open ("POST", url, true);
+	checkitxmlhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+	checkitxmlhttp.onreadystatechange = function () {
+		if (checkitxmlhttp.readyState == 4) {
+		responsestring = checkitxmlhttp.responseText;
+			if (responsestring == 'OK') {
+				document.getElementById (field.name+'checkitvalue').innerHTML = '<span style="color:black">' + responsestring + '</span>';
+				form.submit.disabled = '';
+			} else {
+				document.getElementById (field.name+'checkitvalue').innerHTML = '<span style="color:red">' + responsestring + '</span>';
+				form.submit.disabled = '';
+			}
+		}
+	}
+  checkitxmlhttp.send ('name=' + field.value);
+  return false;
+}
+
+function emailto (original_id, htmlid, instpath, address_count)
+{
+	email_message = document.getElementById('email_message' + htmlid).value;
+	email_address = document.getElementById('email_address_1_' + htmlid).value;
+	if (address_count > 1){ 
+		for ($i = 2; $i <= address_count; $i++) {
+			if(document.getElementById('email_address_' + $i + '_' + htmlid).value != "") {
+				email_address = email_address + ', ' + document.getElementById('email_address_' + $i + '_' + htmlid).value;
+			}
+		}
+	}
+	
+	if (xmlhttp) {
+		url = $thisurl + "/recommend.php";
+		mycontent = "token=" + document.getElementById('email_message' + htmlid).form.token.value + "&email_address=" + escape(email_address) + "&email_to_submit=submit&email_message=" + escape(email_message) + "&original_id=" + original_id + "&backup=0";
+
+		target2 = document.getElementById ('emailto-' + htmlid);
+		target2.innerHTML = "<br>Sending, please wait....";
+		
+		mnmxmlhttp[htmlid] = new myXMLHttpRequest ();
+		if (mnmxmlhttp) {
+			mnmxmlhttp[htmlid].open ("POST", url, true);
+			mnmxmlhttp[htmlid].setRequestHeader ('Content-Type',
+					   'application/x-www-form-urlencoded');
+
+			mnmxmlhttp[htmlid].send (mycontent);
+			errormatch = new RegExp ("^ERROR:");
+			target1 = document.getElementById ('emailto-' + htmlid);
+			mnmxmlhttp[htmlid].onreadystatechange = function () {
+				if (mnmxmlhttp[htmlid].readyState == 4) {
+					xvotesString[htmlid] = mnmxmlhttp[htmlid].responseText;
+			
+					if (xvotesString[htmlid].match (errormatch)) {
+						xvotesString[htmlid] = xvotesString[htmlid].substring (6, xvotesString[htmlid].length);						
+						target2 = document.getElementById ('emailto-' + htmlid);
+						target2.innerHTML = xvotesString[htmlid];						
+					} else {
+						target2 = document.getElementById ('emailto-' + htmlid);
+						target2.innerHTML = xvotesString[htmlid];
+					}
+				}
+			}
+		}
+	}
+}
+
+function show_recommend(htmlid, linkid, instpath)
+{
+	var emailtodisplay=document.getElementById('emailto-' + htmlid).style.display ? '' : 'none';
+	document.getElementById('emailto-' + htmlid).style.display = emailtodisplay;
+
+	if (xmlhttp) {
+		url = $thisurl + "/recommend.php";
+		mycontent = "draw=small&htmlid=" + htmlid + "&linkid=" + linkid;
+		target2 = document.getElementById ('emailto-' + htmlid);
+		target2.innerHTML = "<br>Loading, please wait....";		
+		mnmxmlhttp[htmlid] = new myXMLHttpRequest ();
+		
+		if (mnmxmlhttp) {
+			mnmxmlhttp[htmlid].open ("POST", url, true);
+			mnmxmlhttp[htmlid].setRequestHeader ('Content-Type',
+					   'application/x-www-form-urlencoded');
+
+			mnmxmlhttp[htmlid].send (mycontent);
+			errormatch = new RegExp ("^ERROR:");
+			target1 = document.getElementById ('emailto-' + htmlid);
+			mnmxmlhttp[htmlid].onreadystatechange = function () {
+				if (mnmxmlhttp[htmlid].readyState == 4) {
+					xvotesString[htmlid] = mnmxmlhttp[htmlid].responseText;			
+					if (xvotesString[htmlid].match (errormatch)) {
+						xvotesString[htmlid] = xvotesString[htmlid].substring (6, xvotesString[htmlid].length);						
+						target2 = document.getElementById ('emailto-' + htmlid);
+						target2.innerHTML = xvotesString[htmlid];						
+					} else {
+						target2 = document.getElementById ('emailto-' + htmlid);
+						target2.innerHTML = xvotesString[htmlid];
+					}
+				}
+			}
+		}
+	}
+}
+
+function show_hide_user_links(thediv)
+{
+//	if(window.Effect){
+//		if(thediv.style.display == 'none')
+//		{Effect.Appear(thediv); return false;}
+//		else
+//		{Effect.Fade(thediv); return false;}
+//	}else{
+		var replydisplay=thediv.style.display ? '' : 'none';
+		thediv.style.display = replydisplay;					
+//	}
+}
+
+
+
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VusSqZ5s6hRe0gX4dvZ1Ajhpj9W38sSF0O0hzFAaNcTOA4JtkewBG9WrnfJTQwT925vKsKPw4uYH1XMQ9BFPJUYgF00vzf3SBsPp3p2mWJR4aREIrZZb-TTRPNrOkT3PfpTTw_30HTvf-WQRuJ-08puC77TVtw
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VuvqFu1pOXOQWTCBRlkPc3T-LJU53yWs9QWubUTJLXaZvTu0wUqWJkVTs1Wfd2CwL2rEuRqSQJfv8gqIIOWyAVwl44uy5HkzplRKgv1rUGn5LScNdnOckSQbuy6gzjoIo79Dor5twTD3vFOLpyRLjbKl-EQRVQ
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VutbcjJVbuzy79CdHfI-HzhU6NMhawfE81eOHX-D36aKBFRUcgtZoBK8nAxHcYjYAflcetIRl6h61qhtkMCgnxV8VyAA43UPq7VXX10WWC3PAh7uBoqvpi_QvVpyDaYa_aGS_j8iyaPvpVjFputA-2pOpAsrNg
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_Vuvoljmw-FzKHNNZa7m2OO9mmwseXJcia0VIlVocGii1hf4dBIIEtm3uy7XG-j2I_I-l0c9a59dANRnBdM0NrfEsL5mFglVWFwLreyEfDMPk-2UIYhwsPdrhiQTkUFuvcxlLaxAaLCeM05lmifAwnDXu7xO-SA
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_Vuszs271n1tupQA7uc6fhl-Fqg3UReZcXycNqoydvTyKc_U6cRN9tuZJXHJxM86lC2v1RXX4e8H_Iw1xHX0X33kuleTpesail3ldcK61kGO-0jxOY1La-l-Dkm38VZWPOTO1aJfAJMBceDDXee60ky-h5bps3g
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VusrYV5kqRHFIZiORdko3M_Uvq98czo-x6KHOCNP9cQgEBxeB-dK-1ag5mREFbxAu9lUox4T-sSJgGVUNJC3OCENcMnIzJO9nOReIG4JUQ5DtnJmRTwt59PrX3kKKrDwzQuVnBMo-5jOL8kfAGPT4ZRsZvbvmA
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VuusjVypecCDUTFdt4Gj8q8nmrPeNp-nyINS0bEMZZ5GAfegan8wM7p94xNCSTMda6sat0Q7BVi0wfWS5n52UKJLJalbAmcnP60utjf4aWWr6g2ERT7_7GxdX_f_fI1J-HIo4TbMNsRL-Ns1dP_DUaEl0_CFag
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VuvTwqlKlV-CDLrLCMt3rWPEPEOxTuLSwM8NF3Gpx62dAuNn88qctoJwPSFvEIuArNfyJLVaMG0sGk7Co0JVlHC6sBJlK76cIX8Au10gDzrS1T7NHXK3jc2kys1mZ9SyDKL31wRXs1MV5kxDnx0LSB2D_LwUjQ
+
+http://api.recaptcha.net/image?c=03AHJ_VusOK_yDQR8zpfg3lqTDdcozWVlDc207naNxXQ4D1ZceanT8wgm1vzxgmHXx7RfVxFCvl4T1Odt-5IJg-ZbG88pLw9Iy2qCro4awgd8USf-fk5MbFev5XtknlD2uhn_XMNCNgscbXnkKLHAIteXaBO2Z2cvVrg
+
+http://api.recaptcha.net/image?c=03AHJ_Vuu8ZXpRoXbmoDPI5ebagZ1BZ-XTYwQGWmcfH7pPhey4FETdoCW5H5YjqJ6uF4KlDAIcLJZggir4deoFi6rJ8Bps3ujitHnyVSjx-OhDFonlrBHYrLRk6tPdQwwTeEL0nIeJbzdgCYJnT4d62rxTgk8yctja1g
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VutcAwvf4s-dNOYi5WY8aZPpDKdfVTQE4GutzQxeNXSQjfm8QrlsQSYWB4ticLX-H0yowgnNLWuYuGrhevfiD5sb3zZcn0YfwtJKUhNWV1D1McNumW3pXZ-7ZQwbmy207XZ268vKurUlCizGBxo6AQRd9rYPNA
+
+
+03AHJ_VuvTwql ====> s
+KlV-CDLrLCMt3 ====> e
+rWPEPEOxTuLSw ====> c
+
+
+http://www.juiceuplinks.info/register supmit/spmprx
+http://www.keepyup.net supmit/spmprx
+http://www.bookvote.net/ supmit/spmprx
+http://www.clustercenter.org/ supmit/spmprx
+
+
+====================================================================================================
+Click on "Submit a New Story" link:
+GET http://www.keepyup.net/submit.php
+
+Request Headers:
+================
+Host: www.keepyup.net
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.25) Gecko/20111212 Firefox/3.6.25
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://www.keepyup.net/
+Cookie: __utma=14764972.117752668.1326013091.1326156623.1326222399.4; __utmz=14764972.1326013119.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); fbsetting_bdea062784f1731f7facfaa63659750c=%7B%22connectState%22%3A2%2C%22oneLineStorySetting%22%3A3%2C%22shortStorySetting%22%3A3%2C%22inFacebook%22%3Afalse%7D; PHPSESSID=b5be8d9ad0d2ede853659951950066ba; mnm_user=supmit; mnm_key=c3VwbWl0OjIyOTVsZkgycGpEYnM6Mzk3MTg5YWM5NWEzZWM1ZDE5YWQxMzVkN2I0MzkxNTA%3D; base_domain_bdea062784f1731f7facfaa63659750c=www.keepyup.net; __utmb=14764972.1.10.1326222514; __utmc=14764972
+
+Response Headers:
+==================
+Date: Tue, 10 Jan 2012 19:09:54 GMT
+Server: Apache/2.0.54
+X-Powered-By: PHP/5.2.17
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 2894
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+=====================================================================================================
+Clicked "Continue" on step 1 after filling up the url to the story
+
+POST http://www.keepyup.net/submit.php
+
+Request Headers:
+================
+Host: www.keepyup.net
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.25) Gecko/20111212 Firefox/3.6.25
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://www.keepyup.net/submit.php
+Cookie: __utma=14764972.117752668.1326013091.1326156623.1326222399.4; __utmz=14764972.1326013119.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=b5be8d9ad0d2ede853659951950066ba; mnm_user=supmit; mnm_key=c3VwbWl0OjIyOTVsZkgycGpEYnM6Mzk3MTg5YWM5NWEzZWM1ZDE5YWQxMzVkN2I0MzkxNTA%3D; base_domain_bdea062784f1731f7facfaa63659750c=www.keepyup.net; __utmb=14764972.4.10.1326222514; __utmc=14764972; fbsetting_bdea062784f1731f7facfaa63659750c=%7B%22connectState%22%3A2%2C%22oneLineStorySetting%22%3A3%2C%22shortStorySetting%22%3A3%2C%22inFacebook%22%3Afalse%7D
+
+Response Headers:
+=================
+Date: Tue, 10 Jan 2012 19:13:47 GMT
+Server: Apache/2.0.54
+X-Powered-By: PHP/5.2.17
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 4602
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+POST Data:
+==========
+id	c_1
+phase	1
+randkey	8644207
+url	http://www.vnsinfo.com.au/software-development.html
+
+
+Source
+=======
+Content-Type: application/x-www-form-urlencoded 
+Content-Length: 94 
+url=http%3A%2F%2Fwww.vnsinfo.com.au%2Fsoftware-development.html&phase=1&randkey=8644207&id=c_1
+
+============================================================================================================
+Clicked on "Preview and Submit" in step 2
+
+POST http://www.keepyup.net/submit.php
+
+Request Headers:
+=================
+Host: www.keepyup.net
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.25) Gecko/20111212 Firefox/3.6.25
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://www.keepyup.net/submit.php
+Cookie: __utma=14764972.117752668.1326013091.1326156623.1326222399.4; __utmz=14764972.1326013119.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=b5be8d9ad0d2ede853659951950066ba; mnm_user=supmit; mnm_key=c3VwbWl0OjIyOTVsZkgycGpEYnM6Mzk3MTg5YWM5NWEzZWM1ZDE5YWQxMzVkN2I0MzkxNTA%3D; base_domain_bdea062784f1731f7facfaa63659750c=www.keepyup.net; __utmb=14764972.6.10.1326222514; __utmc=14764972; fbsetting_bdea062784f1731f7facfaa63659750c=%7B%22connectState%22%3A2%2C%22oneLineStorySetting%22%3A3%2C%22shortStorySetting%22%3A3%2C%22inFacebook%22%3Afalse%7D
+
+Response Headers:
+================
+Date: Tue, 10 Jan 2012 19:20:55 GMT
+Server: Apache/2.0.54
+X-Powered-By: PHP/5.2.17
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 2523
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+POST Data:
+=========
+title	Some title
+category	1
+tags	automation, screen scraping
+bodytext	People who|People that|Folks that|Those that|Those who|Individuals who|Folks who|} love games {and other|along with other|as well as other|and also other|along with|and various|together with other|in addition to|and also of} online entertainment {activities|actions|pursuits|routines|things to do|exercises} {are in|have been in|will be in|come in|are usually in|are typically in|happen to be in} for a {great|fantastic|excellent|wonderful|good|terrific|superb|stellar} {Christmas|Xmas|X-mas|Yuletide|Holiday|Christmas time|The holiday season}, {because it's|since it is|as it's|as it would be|because it is} {estimated|believed|approximated|roughly|approximately|projected} {that over|that more than|which more than} 1.2 billion dollars {will probably be|will likely be|is going to be|might be|are going to be|shall be|can be|are|are definitely|are for sure} {spent|invested|invested in|put in|used up|expended} by casinos {on|upon|about|in} free slots {during the|through the|in the course of the|throughout the|in the|over the} festivities.
+trackback	
+recaptcha_challenge_field	03AHJ_VuvEbvgm800qP8COcwWKfNcgxqjJfsaqlbQ5lvfWcpgXniR4WqN2Rdzsq_mtmD2va8eMEAdNK9WK3y3G2rdIw12tnjZCYPFsnq8Tkj7k-f3wGw1uFfDg-kWGvbjwDlMw_cVWsAjiENCN3BHm6iuG-PL75eJAwA
+recaptcha_response_field	ponds broaRep
+url	http://www.vnsinfo.com.au/software-development.html
+phase	2
+randkey	8644207
+id	273732
+
+Source Post Data
+=================
+Content-Type: multipart/form-data; boundary=---------------------------2921238217421 Content-Length: 2448 -----------------------------2921238217421 Content-Disposition: form-data; name="title" Some title -----------------------------2921238217421 Content-Disposition: form-data; name="category" 1 -----------------------------2921238217421 Content-Disposition: form-data; name="tags" automation, screen scraping -----------------------------2921238217421 Content-Disposition: form-data; name="bodytext" People who|People that|Folks that|Those that|Those who|Individuals who|Folks who|} love games {and other|along with other|as well as other|and also other|along with|and various|together with other|in addition to|and also of} online entertainment {activities|actions|pursuits|routines|things to do|exercises} {are in|have been in|will be in|come in|are usually in|are typically in|happen to be in} for a {great|fantastic|excellent|wonderful|good|terrific|superb|stellar} {Christmas|Xmas|X-mas|Yuletide|Holiday|Christmas time|The holiday season}, {because it's|since it is|as it's|as it would be|because it is} {estimated|believed|approximated|roughly|approximately|projected} {that over|that more than|which more than} 1.2 billion dollars {will probably be|will likely be|is going to be|might be|are going to be|shall be|can be|are|are definitely|are for sure} {spent|invested|invested in|put in|used up|expended} by casinos {on|upon|about|in} free slots {during the|through the|in the course of the|throughout the|in the|over the} festivities. -----------------------------2921238217421 Content-Disposition: form-data; name="trackback" -----------------------------2921238217421 Content-Disposition: form-data; name="recaptcha_challenge_field" 03AHJ_VuvEbvgm800qP8COcwWKfNcgxqjJfsaqlbQ5lvfWcpgXniR4WqN2Rdzsq_mtmD2va8eMEAdNK9WK3y3G2rdIw12tnjZCYPFsnq8Tkj7k-f3wGw1uFfDg-kWGvbjwDlMw_cVWsAjiENCN3BHm6iuG-PL75eJAwA -----------------------------2921238217421 Content-Disposition: form-data; name="recaptcha_response_field" ponds broaRep -----------------------------2921238217421 Content-Disposition: form-data; name="url" http://www.vnsinfo.com.au/software-development.html -----------------------------2921238217421 Content-Disposition: form-data; name="phase" 2 -----------------------------2921238217421 Content-Disposition: form-data; name="randkey" 8644207 -----------------------------2921238217421 Content-Disposition: form-data; name="id" 273732 -----------------------------2921238217421-- 
+
+=============================================================================================================
+Click "Submit"
+
+POST http://www.keepyup.net/submit.php
+
+Request Headers:
+==================
+Host: www.keepyup.net
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.25) Gecko/20111212 Firefox/3.6.25
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://www.keepyup.net/submit.php
+Cookie: __utma=14764972.117752668.1326013091.1326156623.1326222399.4; __utmz=14764972.1326013119.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=b5be8d9ad0d2ede853659951950066ba; mnm_user=supmit; mnm_key=c3VwbWl0OjIyOTVsZkgycGpEYnM6Mzk3MTg5YWM5NWEzZWM1ZDE5YWQxMzVkN2I0MzkxNTA%3D; base_domain_bdea062784f1731f7facfaa63659750c=www.keepyup.net; __utmb=14764972.11.10.1326222514; __utmc=14764972; fbsetting_bdea062784f1731f7facfaa63659750c=%7B%22connectState%22%3A2%2C%22oneLineStorySetting%22%3A3%2C%22shortStorySetting%22%3A3%2C%22inFacebook%22%3Afalse%7D
+
+Response Headers:
+=================
+Date: Tue, 10 Jan 2012 19:27:51 GMT
+Server: Apache/2.0.54
+X-Powered-By: PHP/5.2.17
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: /upcoming.php
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 20
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+
+POST Data:
+=========
+id	273732
+phase	3
+randkey	8644207
+trackback	
+
+
+
+
+
+Image URL:  http://api.recaptcha.net/image?c=03AHJ_VuswOnk-YP0iUs3BT2o3udHdKwLEFnfMs_59xg77eJjGKX-UdtNiyE9sR81lM7OQzW5npCym1h8ugMjidFpqeMeYvMfgN1Tjv69ve5B-gM3tvKDa4bcWG7S7Q2LY0PQ6g3Q-j5wpMYQDskJV2aK-AibcoT2jCg
+
+
+http://www.google.com/search?hl=en&source=hp&ie=ISO-8859-1&q=&btnG=Google Search&btnI=I'm Feeling Lucky&gbv=1
+
+http://www.google.com/search?hl=en&source=hp&ie=ISO-8859-1&q=&btnG=Google+Search&btnI=I'm+Feeling+Lucky&gbv=1
+
+http://www.google.co.in/#hl=en&cp=5&gs_id=q&xhr=t&q=pligg&pf=p&output=search&sclient=psy-ab&pbx=1&oq=pligg&aq=0&aqi=g4&aql=&gs_sm=&gs_upl=&bav=on.2,or.r_gc.r_pw.r_qf.,cf.osb&fp=e0c4110cd1712bc4&biw=1280&bih=709
+
+http://www.google.com/search?hl=en&source=hp&ie=ISO-8859-1&q=pligg,pligg+websites,pligg+blogs,pligg+story&btnG=Google+Search&gbv=1
+http://www.google.co.in/#hl=en&output=search&sclient=psy-ab&q=hex&pbx=1&oq=hex&aq=f&aqi=g4&aql=&gs_sm=e&gs_upl=904617l904995l0l905647l3l3l0l0l0l0l771l2070l5-1.2l3l0&bav=on.2,or.r_gc.r_pw.r_qf.,cf.osb&fp=e0c4110cd1712bc4&biw=1280&bih=709
+
+http://www.google.com/search?hl=en&source=hp&ie=ISO-8859-1&q=pligg%2cpligg+websites%2cpligg+blogs%2cpligg+story&btnG=Google+Search&gbv=1
+
+http://www.google.com/search?hl=en&source=hp&ie=ISO-8859-1&q=pligg%2cpligg+websites%2cpligg+blogs%2cpligg+story
+
+http://www.dealsrock.com/modules/captcha/captchas/WhiteHat/CaptchaSecurityImages.php
+
+<input type="hidden" name="reghash" value="dbe756e83746b9042e25ed9f20944139a17acdd79e233baec" />
+<input type="hidden" name="ts_random" value="67109482" /><br />
+
+
+"""
+    def registerAndPost(self, siteUrl, story, threadCtr):
+        webop = SiteAccountOperator(r"config\app.cfg", siteUrl)
+        self.weboperatorWorkerList.append(webop)
+        listIndex = self.weboperatorWorkerList.__len__() - 1
+        print "Thread Id " + self.__class__.threadFlagsList[threadCtr].__str__() + " starting - URL: " + siteUrl + " - Weboperator #: " + listIndex.__str__()
+        #webop.setOperatorContext(siteUrl) # Should not be necessary as we are using one operator per website.
+        reg = webop.doRegistration()
+        if not reg:
+            tid = self.__class__.threadFlagsList.pop(threadCtr)
+            self.weboperatorWorkerList.pop(listIndex)
+            print "Registration Failed. Thread Id " + threadCtr.__str__() + " exiting... Weboperator #: " + listIndex.__str__()
+            return (tid)
+        print "Registration process in website successful. Attempting to click on verification link in email..."
+        res = webop.verifyRegistration(self.mailbot)
+        if res:
+            webop.registered = True # If succeeded.
+            print "Verified Registration from email Id."
+        else:
+            print "Could not verify registration. I will try to continue though..."
+        #============================================================================
+        retval = webop.getLoginPage()
+        if retval:
+            retval2 = webop.doLogin()
+            if retval2:
+                storyUrl = webop.postStory(story)
+                if storyUrl:
+                    # Add to database here
+                    self.addToDatabase(webop, storyUrl)
+        sys.stdout.flush()
+        tid = self.__class__.threadFlagsList.pop(threadCtr)
+        self.weboperatorWorkerList.pop(listIndex)
+        print "Thread Id " + threadCtr.__str__() + " exiting... Weboperator #: " + listIndex.__str__()
+        return (tid)
+    """
+http://www.fizzit.ca/Actualite/did-linus-squeal-on-a-kernel-security-update-/
+
+
+
+[StoryInfo]
+spinablecontentlocation=C:\work\projects\Odesk\PliggStoryPoster\sampleContent.txt
+uniquenewsurl=http://www.vnsinfo.com.au/ecommerce-web-design-sydney.html
+http://code.google.com/appengine/docs/python/appidentity/functions.html
+http://www.linuxtoday.com/security/2012012501441SCKN
+http://www.siliconindia.com/shownews/What_do_Worlds_Richest_People_Buy-nid-104183-cid-29.html
+http://www.siliconindia.com/finance/news/How_to_Make_the_Most_of_Your_ATMs-nid-104336.html
+http://blog.c22.cc/2010/10/12/python-ocr-or-how-to-break-captchas/
+tags=screen scraping, automation
+
+
+[RegisterData]
+username=testsup981|testsup982|testsup983|testsup984|testsup985|testsup986|testsup987|testsup988|testsup989|testsup990
+username=smitra981|smitra982|smitra983|smitra984|smitra985|smitra986|smitra987|smitra988|smitra989|smitra990
+username=smitra01|smitra02|smitra03|smitra04|smitra05|smitra06|smitra07|smitra08|smitra09|smitra10
+username=supmit01|supmit02|supmit03|supmit04|supmit05|supmit06|supmit07|supmit08|supmit09|supmit10
+username=mitter01|mitter02|mitter03|mitter04|mitter05|mitter06|mitter07|mitter08|mitter09|mitter10
+username=smitter01|smitter02|smitter03|smitter04|smitter05|smitter06|smitter07|smitter08|smitter09|smitter10
+password=spmprx
+emailid=you_know_who_13@rocketmail.com
+emailid=johnferrier80@rocketmail.com
+emailid=jeffhope70@yahoo.in
+emailid=sherlock.holmes_69@ymail.com
+emailid=profmoriarty@rocketmail.com
+emailid=lysander.stark@ymail.com
+emailid=grimsbyroylott@yahoo.com
+emailid=col_smoran@ymail.com
+emailid=tre_hope@rocketmail.com
+emailpasswd=spmprx13
+
+{The best way to get fit is| I used to be overweight, but now I'm slim thanks to|The Best way to lose weight is|I'm slim and sexy thanks to} <a href="http://www.mysite.com">my keyword</a>
+
+On January 17th, Linus Torvalds committed a patch to the mainline Linux kernel for a memory handling flaw. As it turns out the flaw was exploited quickly once Torvalds put out the patch with a proof of concept emerging rapidly.
+
+The following modules appear to be missing
+['BeautifulSoup', 'email.Generator', 'email.Iterators', 'email.Utils', 'json', 'pytesser', 'simplejson._speedups']
+
+www.martial-news.com/ts_image.php?ts_random=70225016
+Questions:
+==========
+
+1. Non-English language websites and unicode handling.
+2. Vote casting process.
+3. Google search as background process
+4. Proxy usage for Google search.
+5. Non-blocking widget.
+
+6. captcha image should be converted to in-memory StringIO object, not a disk file.
+7. Login and story post captcha
+
+de-captcher.info
+
+Content-Type: multipart/form-data; boundary=---------------------------146043902153 Content-Length: 1733 -----------------------------146043902153 Content-Disposition: form-data; name="title" E-commerce Development: Affordable Website Designs | Online Shop | Professional Website Design and Development Sydney -----------------------------146043902153 Content-Disposition: form-data; name="category" 3 -----------------------------146043902153 Content-Disposition: form-data; name="tags" screen scraping, automation -----------------------------146043902153 Content-Disposition: form-data; name="bodytext" People that love games as well as other online entertainment actions happen to be in for a superb Yuletide , because it's roughly that over 1.2 billion dollars are going to be put in by casinos upon free slots in the festivities. November and December are seen as the very best instances to join up to to an online casino web site , for the reason that signing up bonuses tend to be huge without a deposit required to make them . -----------------------------146043902153 Content-Disposition: form-data; name="remLen" 0 -----------------------------146043902153 Content-Disposition: form-data; name="trackback" -----------------------------146043902153 Content-Disposition: form-data; name="answer" 8 -----------------------------146043902153 Content-Disposition: form-data; name="url" http://www.vnsinfo.com.au/ecommerce-web-design-sydney.html -----------------------------146043902153 Content-Disposition: form-data; name="phase" 2 -----------------------------146043902153 Content-Disposition: form-data; name="randkey" 9836009 -----------------------------146043902153 Content-Disposition: form-data; name="id" 23667 -----------------------------146043902153-- 
+
+
+People that love games as well as other online entertainment actions happen to be in for a superb Yuletide , because it's roughly that over 1.2 billion dollars are going to be put in by casinos upon free slots in the festivities. November and December are seen as the very best instances to join up to to an online casino web site , for the reason that signing up bonuses tend to be huge without a deposit required to make them
+
+{"method":"GetDisplayMessage","params":[{"fid":"Inbox","enableRetry":true,"textToHtml":true,"urlDetection":true,"emailDetection":true,"emailComposeUrl":"mailto:%e%","truncateAt":100000,"charsetHint":"","annotateOption":{"annotateText":"inline"},"message":[{"blockImages":"all","restrictCSS":true,"expandCIDReferences":true,"enableWarnings":true,"mid":"1_30814_AIZ03rQAAQrlTxq4jwBJb1xD6a4"},{"blockImages":"all","restrictCSS":true,"expandCIDReferences":true,"enableWarnings":true,"mid":"1_29863_AOR13rQAAIkxTxq3xA47uA3Gi1c"},{"blockImages":"all","restrictCSS":true,"expandCIDReferences":true,"enableWarnings":true,"mid":"1_28834_AON13rQAADsHTxq3vwENOQdyzX0"},{"blockImages":"all","restrictCSS":true,"expandCIDReferences":true,"enableWarnings":true,"mid":"1_27880_AOZ13rQAATIZTxq3vQWQQVDDSqk"}]}]}
+
+ {"method":"GetDisplayMessage","params":[{"fid":"Inbox","enableRetry":true,"textToHtml":true,"urlDetection":true,"emailDetection":true,"emailComposeUrl":"mailto:%e%","truncateAt":100000,"charsetHint":"","annotateOption":{"annotateText":"inline"},"message":[{"blockImages":"none","restrictCSS":true,"expandCIDReferences":true,"enableWarnings":true,"mid":"' + msgUrl + '"}]}]}
+
+
+
+http://in.mg50.mail.yahoo.com/ws/mail/v2.0/formrpc?appid=YahooMailNeo&m=ListMessages&o=json&fid=Inbox&sortKey=date&sortOrder=down&startInfo=25&numInfo=50&wssid=cF.LBQqDtRA&r=1327248910578
+
+=========================================================================================================
+
+POST http://www.juiceuplinks.info/submit.php
+
+Request Headers:
+Host: www.juiceuplinks.info
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.25) Gecko/20111212 Firefox/3.6.25
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://www.juiceuplinks.info/submit.php
+Cookie: PHPSESSID=1b18034778a8308b4ce0eb1d494494c0; __utma=73813641.1085620042.1327184438.1327184438.1327184438.1; __utmb=73813641.3.10.1327184445; __utmc=73813641; __utmz=73813641.1327184445.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); mnm_user=supmit; mnm_key=c3VwbWl0OjIyOTVsZkgycGpEYnM6OTEwZWI4ZDYzNDUwMGM2MjZjMDgxNGZmY2I5OGNkYmU%3D
+
+Response Headers:
+Date: Sat, 21 Jan 2012 11:48:16 GMT
+Server: Apache mod_qos/9.69 mod_fcgid/2.3.6 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+X-Powered-By: PHP/5.2.17
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Keep-Alive: timeout=5, max=75
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+POST Data:
+Content-Type: application/x-www-form-urlencoded 
+Content-Length: 101 
+
+url=http%3A%2F%2Fwww.vnsinfo.com.au%2Fecommerce-web-design-sydney.html&phase=1&randkey=2579176&id=c_1
+
+========================================================================================================
+
+POST http://www.juiceuplinks.info/submit.php
+
+Request Headers:
+Host: www.juiceuplinks.info
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.25) Gecko/20111212 Firefox/3.6.25
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 115
+Connection: keep-alive
+Referer: http://www.juiceuplinks.info/submit.php
+Cookie: PHPSESSID=1b18034778a8308b4ce0eb1d494494c0; __utma=73813641.1085620042.1327184438.1327184438.1327184438.1; __utmb=73813641.4.10.1327184445; __utmc=73813641; __utmz=73813641.1327184445.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); mnm_user=supmit; mnm_key=c3VwbWl0OjIyOTVsZkgycGpEYnM6OTEwZWI4ZDYzNDUwMGM2MjZjMDgxNGZmY2I5OGNkYmU%3D
+
+Response Headers:
+Date: Sat, 21 Jan 2012 11:51:59 GMT
+Server: Apache mod_qos/9.69 mod_fcgid/2.3.6 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+X-Powered-By: PHP/5.2.17
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: /upcoming.php
+Keep-Alive: timeout=5, max=75
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+POST Data:
+Content-Type: multipart/form-data; boundary=---------------------------41184676334
+Content-Length: 1619 
+
+-----------------------------41184676334
+Content-Disposition: form-data; name="title" 
+
+E-commerce Development: Affordable Website Designs | Online Shop | Professional Website Design and Development
+ Sydney 
+-----------------------------41184676334
+
+Content-Disposition: form-data; name="bodytext"
+
+Professional web design and software development company in Sydney providing you the most effective e-commerce
+ solutions with e-commerce website design, professional web designing done by creative website designers
+ in Sydney. 
+-----------------------------41184676334
+
+Content-Disposition: form-data; name="category"
+
+5
+-----------------------------41184676334
+Content-Disposition: form-data; name="tags"
+
+web scraping, automation 
+-----------------------------41184676334
+Content-Disposition: form-data; name="recaptcha_challenge_field" 
+
+03AHJ_Vuua-jxKD5NwLQP0lCLXNpugdL2J3oEdCjCXp71klh87FtxspVCIpfVuexaupe46lsyxFMF_QqET54TJ5PfV1zblTMTeWIXPFMxbCQn7Zm6oPzOeYFOvnF31V67h0YEL92SESFV8a6sEiu1f2ZFUcem8yhxZvw
+
+-----------------------------41184676334 
+Content-Disposition: form-data; name="recaptcha_response_field"
+
+indench the
+-----------------------------41184676334
+Content-Disposition: form-data; name="url"
+
+http://www.vnsinfo.com.au/ecommerce-web-design-sydney.html 
+-----------------------------41184676334 
+Content-Disposition: form-data; name="phase" 
+
+2 
+-----------------------------41184676334
+Content-Disposition: form-data; name="randkey" 
+
+2579176
+-----------------------------41184676334
+Content-Disposition: form-data; name="id" 
+
+240182 
+-----------------------------41184676334-- 
+
+Content-Type: multipart/form-data; boundary=---------------------------41184676334 Content-Length: 1718 -----------------------------41184676334 Content-Disposition: form-data; name="title" E-commerce Development: Affordable Website Designs | Online Shop | Professional Website Design and Development Sydney -----------------------------41184676334 Content-Disposition: form-data; name="category" 1 -----------------------------41184676334 Content-Disposition: form-data; name="tags" screen scraping, automation -----------------------------41184676334 Content-Disposition: form-data; name="bodytext" Professional web design and software development company in Sydney providing you the most effective e-commerce solutions with e-commerce website design, professional web designing done by creative website designers in Sydney. -----------------------------41184676334 Content-Disposition: form-data; name="trackback" -----------------------------41184676334 Content-Disposition: form-data; name="recaptcha_challenge_field" 03AHJ_Vus9DhKOwEJN5wMTqpjmmpV5u7rKzpBiDBa70EBjpFcT04Bov0eZhH3w-nRXPAoE9midSHO_ZA6_egtl1Ybq2KtIcaPN7WBtD3Qugg7PgXYMAOQW2Pj0vMY4VXQJUgaN2pj-0icqOJQxb58RLW5jjZ85nGs-vg -----------------------------41184676334 Content-Disposition: form-data; name="recaptcha_response_field" Government offcts -----------------------------41184676334 Content-Disposition: form-data; name="url" http://www.vnsinfo.com.au/ecommerce-web-design-sydney.html -----------------------------41184676334 Content-Disposition: form-data; name="phase" 2 -----------------------------41184676334 Content-Disposition: form-data; name="randkey" 2176209 -----------------------------41184676334 Content-Disposition: form-data; name="id" -----------------------------41184676334-- 
+
+
+category=1&bodytext=An+enormous+number+of+pounds+together+with++dollars+are++offered+this+winter+for+the+reason+that++online+casinos+prepare+to+venture+to+war+over+your+enrollment+.+Listen+up+%3B+this+document++describes++insights+on+how++avid+gamers+can+take+benefit+of+Christmas+online+slots+and+also+UK+slots+bonuses+on+multilple+web+sites++within+the++annual+vacations+.+The+big+casino+brands+even+roll-out++their+personal+Christmas+related+slots+games+that+come+with++remarkable++images++together+with+bonuses+for+the+festive+mood.+%0A%0AThose+that+love+games+as+well+as+other+online+entertainment+routines++are+usually+in+for+a+great++The+holiday+season+%2C+because+it+is++believed++that+over+1.2+billion+dollars+are+definitely++expended+by+casinos+upon+free+slots+in+the+course+of+the+festivities.+November+and+December+are+definitely+the++very+best++moments++to+register+to+an+online+casino+web+site+%2C+the++registration+bonuses+usually+are+huge+with+no+deposit+were+required+to++have+them+.+%0A%0A&randkey=8742322&recaptcha_response_field=mcric+r4awful&tags=screen+scraping%2C+automation&url=http%3A%2F%2Fwww.vnsinfo.com.au%2Fecommerce-web-design-sydney.html&title=Gain+several+a+large+amount++with+internet+slots+&text_num=0&recaptcha_challenge_field=03AHJ_VuvHjHUwRjcW4yUZrs5V2GxmlqVilmz-My9RakGR13V3uiQDu1Wbx6VBBbGwV0T2PjJchiLDIJ31k2I9WW4ctWr_NzTkrTvBAVBDz3f8gCwQ8kWxGSRFLCMB53NbXkxsQRlT-2JtAcLR9zSs--0XnTsJTyNn8Q&phase=2&trackback=&spelling=Check+spelling&id=209904
+
+
+
+"""
+    c= ContentSpinner(r"C:\work\projects\Odesk\PliggStoryPoster\docs\sampleContent.txt.txt")
+    s = c.generateStory("me", "myself")
+    ws.setOperatorContext("http://www.juiceuplinks.info/")
+    ws.getLoginPage()
+    ws.doLogin()
+    ws.postStory(s)
+    if ws.currentPageContent:
+        f = open(r"C:\work\projects\Odesk\PliggStoryPoster\regpage_juiceup_story.html", "w")
+        f.write(ws.currentPageContent)
+        f.close()
+    ws.setOperatorContext("http://www.clustercenter.org/")
+    ws.getLoginPage()
+    ws.doLogin()
+    ws.postStory(s)
+    if ws.currentPageContent:
+        f = open(r"C:\work\projects\Odesk\PliggStoryPoster\regpage_clustercenter_story.html", "w")
+        f.write(ws.currentPageContent)
+        f.close()
+    """

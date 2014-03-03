@@ -1,0 +1,998 @@
+Starting application 'PliggAutoPostBot' - Mon, February 30, 2012Processing website (#1): http://nowprepaid.com/
+Number of threads: 0
+Creating thread <Thread(Thread-1, initial)>
+Processing website (#2): http://notiziedicalcio.com/
+Number of threads: 1
+Creating thread <Thread(Thread-2, initial)>
+Processing website (#3): http://nodds.com/
+Number of threads: 2
+Creating thread <Thread(Thread-3, initial)>
+Processing website (#4): http://mysocial.co.uk/
+Number of threads: 3
+Creating thread <Thread(Thread-4, initial)>
+Processing website (#5): http://northcoastoregon.proboards.com/
+Number of threads: 4
+Creating thread <Thread(Thread-5, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#6): http://nursingwire.com/
+Starting thread <Thread(Thread-2, initial)>
+Starting thread <Thread(Thread-1, initial)>
+Starting thread <Thread(Thread-4, initial)>
+Starting thread <Thread(Thread-3, initial)>
+Starting thread <Thread(Thread-5, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-4, started)> starting - URL: http://mysocial.co.uk/ Creds: smitra06/spmprx
+Registration Thread Id <Thread(Thread-5, started)> starting - URL: http://northcoastoregon.proboards.com/ Creds: smitra06/spmprx
+Registration Thread Id <Thread(Thread-1, started)> starting - URL: http://nowprepaid.com/ Creds: smitra06/spmprx
+Registration Thread Id <Thread(Thread-2, started)> starting - URL: http://notiziedicalcio.com/ Creds: smitra06/spmprx
+Registration Thread Id <Thread(Thread-3, started)> starting - URL: http://nodds.com/ Creds: smitra06/spmprx
+Registration Failed. Thread Id <Thread(Thread-1, started)> exiting... 
+Registration process in http://northcoastoregon.proboards.com/ successful using username 'smitra06' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-5, started)> exiting...
+Processing website (#7): http://offshoreacres.com/
+Number of threads: 3
+Creating thread <Thread(Thread-6, initial)>
+Processing website (#8): http://onlinebookmark.info/
+Number of threads: 4
+Creating thread <Thread(Thread-7, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://mysocial.co.uk/ successful using username 'smitra06' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-4, started)> exiting...
+Processing website (#9): http://onlinesafeshop.com/
+Number of threads: 4
+Creating thread <Thread(Thread-8, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://notiziedicalcio.com/ successful using username 'smitra06' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-2, started)> exiting...
+Registration process in http://nodds.com/ successful using username 'smitra06' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-3, started)> exiting...
+Processing website (#10): http://onlinesshopping.com/
+Number of threads: 3
+Creating thread <Thread(Thread-9, initial)>
+Processing website (#11): http://nyusteinhardt.com/
+Number of threads: 4
+Creating thread <Thread(Thread-10, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#12): http://ourfamilygenes.ca/
+Starting thread <Thread(Thread-6, initial)>
+Starting thread <Thread(Thread-8, initial)>
+Starting thread <Thread(Thread-7, initial)>
+Starting thread <Thread(Thread-10, initial)>
+Starting thread <Thread(Thread-9, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-6, started)> starting - URL: http://offshoreacres.com/ Creds: smitra02/spmprx
+Registration Thread Id <Thread(Thread-8, started)> starting - URL: http://onlinesafeshop.com/ Creds: smitra02/spmprx
+Registration Failed. Thread Id <Thread(Thread-8, started)> exiting... 
+Registration Thread Id <Thread(Thread-7, started)> starting - URL: http://onlinebookmark.info/ Creds: smitra02/spmprx
+Registration Failed. Thread Id <Thread(Thread-7, started)> exiting... 
+Registration Thread Id <Thread(Thread-10, started)> starting - URL: http://nyusteinhardt.com/ Creds: smitra02/spmprx
+Registration Failed. Thread Id <Thread(Thread-10, started)> exiting... 
+Processing website (#13): http://ourcoimbatore.com/
+Number of threads: 2
+Creating thread <Thread(Thread-11, initial)>
+Processing website (#14): http://ophee.com/
+Number of threads: 3
+Creating thread <Thread(Thread-12, initial)>
+Processing website (#15): http://parapazzi.com/
+Number of threads: 4
+Creating thread <Thread(Thread-13, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-9, started)> starting - URL: http://onlinesshopping.com/ Creds: smitra05/spmprx
+Registration Failed. Thread Id <Thread(Thread-6, started)> exiting... 
+Registration process in http://onlinesshopping.com/ successful using username 'smitra05' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-9, started)> exiting...
+Processing website (#16): http://ourfavoritearticles.com/
+Number of threads: 3
+Creating thread <Thread(Thread-14, initial)>
+Processing website (#17): http://nriol.org/
+Number of threads: 4
+Creating thread <Thread(Thread-15, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#18): http://paydayadvanceuk.com/
+Starting thread <Thread(Thread-12, initial)>
+Starting thread <Thread(Thread-11, initial)>
+Starting thread <Thread(Thread-14, initial)>
+Starting thread <Thread(Thread-13, initial)>
+Starting thread <Thread(Thread-15, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-15, started)> starting - URL: http://nriol.org/ Creds: smitra08/spmprx
+Registration Failed. Thread Id <Thread(Thread-15, started)> exiting... 
+Registration Thread Id <Thread(Thread-14, started)> starting - URL: http://ourfavoritearticles.com/ Creds: smitra08/spmprx
+Processing website (#19): http://perfectlittlepublishing.com/
+Number of threads: 4
+Creating thread <Thread(Thread-16, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-12, started)> starting - URL: http://ophee.com/ Creds: smitra09/spmprx
+Registration Thread Id <Thread(Thread-13, started)> starting - URL: http://parapazzi.com/ Creds: smitra09/spmprx
+Registration Thread Id <Thread(Thread-11, started)> starting - URL: http://ourcoimbatore.com/ Creds: smitra09/spmprx
+Registration Failed. Thread Id <Thread(Thread-14, started)> exiting... 
+Processing website (#20): http://opticsriflescopes.info/
+Number of threads: 4
+Creating thread <Thread(Thread-17, initial)>
+Number of concurrent threads at this instant: 5
+Registration Failed. Thread Id <Thread(Thread-11, started)> exiting... 
+Registration process in http://parapazzi.com/ successful using username 'smitra09' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-13, started)> exiting...
+Processing website (#21): http://personaldevelopmentlinks.com/
+Number of threads: 3
+Creating thread <Thread(Thread-18, initial)>
+Processing website (#22): http://pianolinks.1stclasslinks.info/
+Number of threads: 4
+Creating thread <Thread(Thread-19, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://ophee.com/ successful using username 'smitra09' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-12, started)> exiting...
+Processing website (#23): http://pantyhosehound.com/
+Number of threads: 4
+Creating thread <Thread(Thread-20, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#24): http://pickupyourowndamnsocks.com/
+Starting thread <Thread(Thread-16, initial)>
+Starting thread <Thread(Thread-18, initial)>
+Starting thread <Thread(Thread-17, initial)>
+Starting thread <Thread(Thread-20, initial)>
+Starting thread <Thread(Thread-19, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-18, started)> starting - URL: http://personaldevelopmentlinks.com/ Creds: smitra04/spmprx
+Registration Failed. Thread Id <Thread(Thread-18, started)> exiting... 
+Registration Thread Id <Thread(Thread-16, started)> starting - URL: http://perfectlittlepublishing.com/ Creds: smitra04/spmprx
+Registration Thread Id <Thread(Thread-20, started)> starting - URL: http://pantyhosehound.com/ Creds: smitra04/spmprx
+Registration Thread Id <Thread(Thread-17, started)> starting - URL: http://opticsriflescopes.info/ Creds: smitra04/spmprx
+Registration Thread Id <Thread(Thread-19, started)> starting - URL: http://pianolinks.1stclasslinks.info/ Creds: smitra04/spmprx
+Registration Failed. Thread Id <Thread(Thread-17, started)> exiting... 
+Registration process in http://pianolinks.1stclasslinks.info/ successful using username 'smitra04' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-19, started)> exiting...
+Registration process in http://perfectlittlepublishing.com/ successful using username 'smitra04' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-16, started)> exiting...
+Registration process in http://pantyhosehound.com/ successful using username 'smitra04' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-20, started)> exiting...
+Processing website (#25): http://panodigg.giuseppevaccaro.ch/
+Number of threads: 0
+Creating thread <Thread(Thread-21, initial)>
+Processing website (#26): http://planbrecipes.com/
+Number of threads: 1
+Creating thread <Thread(Thread-22, initial)>
+Processing website (#27): http://pedablogy.com/
+Number of threads: 2
+Creating thread <Thread(Thread-23, initial)>
+Processing website (#28): http://pleaseprayfor.org/
+Number of threads: 3
+Creating thread <Thread(Thread-24, initial)>
+Processing website (#29): http://www.pligg-it.de/
+Number of threads: 4
+Creating thread <Thread(Thread-25, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#30): http://pligg.adampyatt.com/
+Starting thread <Thread(Thread-25, initial)>
+Starting thread <Thread(Thread-23, initial)>
+Starting thread <Thread(Thread-24, initial)>
+Starting thread <Thread(Thread-21, initial)>
+Starting thread <Thread(Thread-22, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-23, started)> starting - URL: http://pedablogy.com/ Creds: smitra10/spmprx
+Registration Thread Id <Thread(Thread-24, started)> starting - URL: http://pleaseprayfor.org/ Creds: smitra10/spmprx
+Registration Thread Id <Thread(Thread-25, started)> starting - URL: http://www.pligg-it.de/ Creds: smitra10/spmprx
+Registration Thread Id <Thread(Thread-22, started)> starting - URL: http://planbrecipes.com/ Creds: smitra10/spmprx
+Registration Thread Id <Thread(Thread-21, started)> starting - URL: http://panodigg.giuseppevaccaro.ch/ Creds: smitra10/spmprx
+Registration process in http://pleaseprayfor.org/ successful using username 'smitra10' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-24, started)> exiting...
+Registration process in http://panodigg.giuseppevaccaro.ch/ successful using username 'smitra10' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-21, started)> exiting...
+Captcha Text for http://www.pligg-it.de/ is 874892
+Registration process in http://pedablogy.com/ successful using username 'smitra10' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-23, started)> exiting...
+Registration process in http://www.pligg-it.de/ successful using username 'smitra10' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-25, started)> exiting...
+Processing website (#31): http://pligg.freewer.net/
+Number of threads: 1
+Creating thread <Thread(Thread-26, initial)>
+Processing website (#32): http://pliggthis.com/
+Number of threads: 2
+Creating thread <Thread(Thread-27, initial)>
+Processing website (#33): http://posicionatuweb.es/
+Number of threads: 3
+Creating thread <Thread(Thread-28, initial)>
+Processing website (#34): http://pornxxx.biwoo.com/
+Number of threads: 4
+Creating thread <Thread(Thread-29, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://planbrecipes.com/ successful using username 'smitra10' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-22, started)> exiting...
+Processing website (#35): http://polimedia.us/
+Number of threads: 4
+Creating thread <Thread(Thread-30, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#36): http://plugpages.com/
+Starting thread <Thread(Thread-26, initial)>
+Starting thread <Thread(Thread-27, initial)>
+Starting thread <Thread(Thread-28, initial)>
+Starting thread <Thread(Thread-29, initial)>
+Starting thread <Thread(Thread-30, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-26, started)> starting - URL: http://pligg.freewer.net/ Creds: smitra06/spmprx
+Registration Thread Id <Thread(Thread-28, started)> starting - URL: http://posicionatuweb.es/ Creds: smitra06/spmprx
+Registration Failed. Thread Id <Thread(Thread-28, started)> exiting... 
+Registration Thread Id <Thread(Thread-30, started)> starting - URL: http://polimedia.us/ Creds: smitra06/spmprx
+Registration Thread Id <Thread(Thread-29, started)> starting - URL: http://pornxxx.biwoo.com/ Creds: smitra06/spmprx
+Registration Failed. Thread Id <Thread(Thread-30, started)> exiting... 
+Processing website (#37): http://pollstar.com/
+Number of threads: 3
+Creating thread <Thread(Thread-31, initial)>
+Processing website (#38): http://pornoflow.com/
+Number of threads: 4
+Creating thread <Thread(Thread-32, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-27, started)> starting - URL: http://pliggthis.com/ Creds: smitra08/spmprx
+Registration Failed. Thread Id <Thread(Thread-29, started)> exiting... 
+Processing website (#39): http://pop.musiclog.in/
+Number of threads: 4
+Creating thread <Thread(Thread-33, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://pliggthis.com/ successful using username 'smitra08' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-27, started)> exiting...
+Processing website (#40): http://puanbox.com/
+Number of threads: 4
+Creating thread <Thread(Thread-34, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://pligg.freewer.net/ successful using username 'smitra06' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-26, started)> exiting...
+Processing website (#41): http://publichealthdownloads.com/
+Number of threads: 4
+Creating thread <Thread(Thread-35, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#42): http://prog.musiclog.in/
+Starting thread <Thread(Thread-32, initial)>
+Starting thread <Thread(Thread-31, initial)>
+Starting thread <Thread(Thread-35, initial)>
+Starting thread <Thread(Thread-34, initial)>
+Starting thread <Thread(Thread-33, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-31, started)> starting - URL: http://pollstar.com/ Creds: smitra02/spmprx
+Registration Thread Id <Thread(Thread-32, started)> starting - URL: http://pornoflow.com/ Creds: smitra02/spmprx
+Registration Thread Id <Thread(Thread-35, started)> starting - URL: http://publichealthdownloads.com/ Creds: smitra02/spmprx
+Registration Thread Id <Thread(Thread-34, started)> starting - URL: http://puanbox.com/ Creds: smitra02/spmprx
+Registration Failed. Thread Id <Thread(Thread-31, started)> exiting... 
+Registration Failed. Thread Id <Thread(Thread-34, started)> exiting... 
+Registration Thread Id <Thread(Thread-33, started)> starting - URL: http://pop.musiclog.in/ Creds: smitra02/spmprx
+Registration process in http://pornoflow.com/ successful using username 'smitra02' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-32, started)> exiting...
+Registration process in http://publichealthdownloads.com/ successful using username 'smitra02' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-35, started)> exiting...
+Processing website (#43): http://publish.cssolution.net/
+Number of threads: 1
+Creating thread <Thread(Thread-36, initial)>
+Processing website (#44): http://quickandlegal.com/
+Number of threads: 2
+Creating thread <Thread(Thread-37, initial)>
+Processing website (#45): http://queuepons.com/
+Number of threads: 3
+Creating thread <Thread(Thread-38, initial)>
+Processing website (#46): http://ravintolatempo.com/
+Number of threads: 4
+Creating thread <Thread(Thread-39, initial)>
+Number of concurrent threads at this instant: 5
+Registration Failed. Thread Id <Thread(Thread-33, started)> exiting... 
+Processing website (#47): http://punkstar.co.uk/
+Number of threads: 4
+Creating thread <Thread(Thread-40, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#48): http://reallygoodmagazine.com/
+Starting thread <Thread(Thread-40, initial)>
+Starting thread <Thread(Thread-39, initial)>
+Starting thread <Thread(Thread-38, initial)>
+Starting thread <Thread(Thread-37, initial)>
+Starting thread <Thread(Thread-36, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-39, started)> starting - URL: http://ravintolatempo.com/ Creds: smitra08/spmprx
+Registration Thread Id <Thread(Thread-40, started)> starting - URL: http://punkstar.co.uk/ Creds: smitra08/spmprx
+Registration Failed. Thread Id <Thread(Thread-40, started)> exiting... 
+Processing website (#49): http://rankco.info/
+Number of threads: 4
+Creating thread <Thread(Thread-41, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-38, started)> starting - URL: http://queuepons.com/ Creds: smitra09/spmprx
+Registration Thread Id <Thread(Thread-37, started)> starting - URL: http://quickandlegal.com/ Creds: smitra09/spmprx
+Registration process in http://quickandlegal.com/ successful using username 'smitra09' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-37, started)> exiting...
+Registration Thread Id <Thread(Thread-36, started)> starting - URL: http://publish.cssolution.net/ Creds: smitra09/spmprx
+Registration process in http://queuepons.com/ successful using username 'smitra09' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-38, started)> exiting...
+Registration process in http://ravintolatempo.com/ successful using username 'smitra08' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-39, started)> exiting...
+Processing website (#50): http://rap.musiclog.in/
+Number of threads: 2
+Creating thread <Thread(Thread-42, initial)>
+Processing website (#51): http://respondback.com/
+Number of threads: 3
+Creating thread <Thread(Thread-43, initial)>
+Processing website (#52): http://restaurantreviewsblog.info/
+Number of threads: 4
+Creating thread <Thread(Thread-44, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://publish.cssolution.net/ successful using username 'smitra09' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-36, started)> exiting...
+Processing website (#53): http://revud.info/
+Number of threads: 4
+Creating thread <Thread(Thread-45, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#54): http://reggae.musiclog.in/
+Starting thread <Thread(Thread-43, initial)>
+Starting thread <Thread(Thread-44, initial)>
+Starting thread <Thread(Thread-45, initial)>
+Starting thread <Thread(Thread-41, initial)>
+Starting thread <Thread(Thread-42, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-45, started)> starting - URL: http://revud.info/ Creds: smitra04/spmprx
+Registration Thread Id <Thread(Thread-43, started)> starting - URL: http://respondback.com/ Creds: smitra04/spmprx
+Registration Thread Id <Thread(Thread-44, started)> starting - URL: http://restaurantreviewsblog.info/ Creds: smitra04/spmprx
+Registration Thread Id <Thread(Thread-41, started)> starting - URL: http://rankco.info/ Creds: smitra04/spmprx
+Registration Failed. Thread Id <Thread(Thread-45, started)> exiting... 
+Processing website (#55): http://redemptionxxrpg.proboards.com/
+Number of threads: 4
+Creating thread <Thread(Thread-46, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-42, started)> starting - URL: http://rap.musiclog.in/ Creds: smitra05/spmprx
+Registration process in http://rankco.info/ successful using username 'smitra04' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-41, started)> exiting...
+Registration process in http://restaurantreviewsblog.info/ successful using username 'smitra04' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-44, started)> exiting...
+Registration process in http://respondback.com/ successful using username 'smitra04' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Processing website (#56): http://rempah.com/
+Registration Thread Id <Thread(Thread-43, started)> exiting...
+Number of threads: 2
+Creating thread <Thread(Thread-47, initial)>
+Processing website (#57): http://residantsofsolitude.proboards.com/
+Number of threads: 3
+Creating thread <Thread(Thread-48, initial)>
+Processing website (#58): http://reofund.org/
+Number of threads: 4
+Creating thread <Thread(Thread-49, initial)>
+Number of concurrent threads at this instant: 5
+Registration Failed. Thread Id <Thread(Thread-42, started)> exiting... 
+Processing website (#59): http://s205508405.onlinehome.fr/
+Number of threads: 4
+Creating thread <Thread(Thread-50, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#60): http://rnb.musiclog.in/
+Starting thread <Thread(Thread-49, initial)>
+Starting thread <Thread(Thread-47, initial)>
+Starting thread <Thread(Thread-48, initial)>
+Starting thread <Thread(Thread-46, initial)>
+Starting thread <Thread(Thread-50, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-47, started)> starting - URL: http://rempah.com/ Creds: smitra10/spmprx
+Registration Failed. Thread Id <Thread(Thread-47, started)> exiting... 
+Registration Thread Id <Thread(Thread-49, started)> starting - URL: http://reofund.org/ Creds: smitra10/spmprx
+Registration Failed. Thread Id <Thread(Thread-49, started)> exiting... 
+Registration Thread Id <Thread(Thread-46, started)> starting - URL: http://redemptionxxrpg.proboards.com/ Creds: smitra10/spmprx
+Registration Thread Id <Thread(Thread-48, started)> starting - URL: http://residantsofsolitude.proboards.com/ Creds: smitra10/spmprx
+Registration Thread Id <Thread(Thread-50, started)> starting - URL: http://s205508405.onlinehome.fr/ Creds: smitra10/spmprx
+Registration process in http://residantsofsolitude.proboards.com/ successful using username 'smitra10' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-48, started)> exiting...
+Registration process in http://redemptionxxrpg.proboards.com/ successful using username 'smitra10' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-46, started)> exiting...
+Registration process in http://s205508405.onlinehome.fr/ successful using username 'smitra10' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-50, started)> exiting...
+Processing website (#61): http://rumors.netsay.net/
+Number of threads: 0
+Creating thread <Thread(Thread-51, initial)>
+Processing website (#62): http://riskingitall.proboards.com/
+Number of threads: 1
+Creating thread <Thread(Thread-52, initial)>
+Processing website (#63): http://safe-book.com/
+Number of threads: 2
+Creating thread <Thread(Thread-53, initial)>
+Processing website (#64): http://safarisamsclub.com/
+Number of threads: 3
+Creating thread <Thread(Thread-54, initial)>
+Processing website (#65): http://sanctifly.com/
+Number of threads: 4
+Creating thread <Thread(Thread-55, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#66): http://rush.dk/
+Starting thread <Thread(Thread-55, initial)>
+Starting thread <Thread(Thread-54, initial)>
+Starting thread <Thread(Thread-53, initial)>
+Starting thread <Thread(Thread-52, initial)>
+Starting thread <Thread(Thread-51, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-54, started)> starting - URL: http://safarisamsclub.com/ Creds: smitra06/spmprx
+Registration Thread Id <Thread(Thread-53, started)> starting - URL: http://safe-book.com/ Creds: smitra06/spmprx
+Registration Thread Id <Thread(Thread-55, started)> starting - URL: http://sanctifly.com/ Creds: smitra06/spmprx
+Registration Thread Id <Thread(Thread-51, started)> starting - URL: http://rumors.netsay.net/ Creds: smitra06/spmprx
+Registration Failed. Thread Id <Thread(Thread-53, started)> exiting... 
+Registration Failed. Thread Id <Thread(Thread-51, started)> exiting... 
+Registration Failed. Thread Id <Thread(Thread-55, started)> exiting... 
+Processing website (#67): http://sanfrancisco.getofftheinternet.net/
+Number of threads: 2
+Creating thread <Thread(Thread-56, initial)>
+Processing website (#68): http://saysaid.com/
+Number of threads: 3
+Creating thread <Thread(Thread-57, initial)>
+Processing website (#69): http://sebelas.net/
+Number of threads: 4
+Creating thread <Thread(Thread-58, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-52, started)> starting - URL: http://riskingitall.proboards.com/ Creds: smitra09/spmprx
+Registration process in http://riskingitall.proboards.com/ successful using username 'smitra09' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-52, started)> exiting...
+Registration process in http://safarisamsclub.com/ successful using username 'smitra06' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-54, started)> exiting...
+Processing website (#70): http://scoopbookmarks.info/
+Number of threads: 3
+Creating thread <Thread(Thread-59, initial)>
+Processing website (#71): http://seldane.proboards.com/
+Number of threads: 4
+Creating thread <Thread(Thread-60, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#72): http://seoapi.ru/
+Starting thread <Thread(Thread-57, initial)>
+Starting thread <Thread(Thread-60, initial)>
+Starting thread <Thread(Thread-59, initial)>
+Starting thread <Thread(Thread-56, initial)>
+Starting thread <Thread(Thread-58, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-59, started)> starting - URL: http://scoopbookmarks.info/ Creds: smitra02/spmprx
+Registration Thread Id <Thread(Thread-56, started)> starting - URL: http://sanfrancisco.getofftheinternet.net/ Creds: smitra02/spmprx
+Registration Thread Id <Thread(Thread-60, started)> starting - URL: http://seldane.proboards.com/ Creds: smitra02/spmprx
+Registration Thread Id <Thread(Thread-58, started)> starting - URL: http://sebelas.net/ Creds: smitra02/spmprx
+Registration Failed. Thread Id <Thread(Thread-58, started)> exiting... 
+Registration Thread Id <Thread(Thread-57, started)> starting - URL: http://saysaid.com/ Creds: smitra02/spmprx
+Registration process in http://seldane.proboards.com/ successful using username 'smitra02' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-60, started)> exiting...
+Processing website (#73): http://seobukmark.info/
+Number of threads: 3
+Creating thread <Thread(Thread-61, initial)>
+Processing website (#74): http://sexstoriespost.com/
+Number of threads: 4
+Creating thread <Thread(Thread-62, initial)>
+Number of concurrent threads at this instant: 5
+Captcha Text for http://sanfrancisco.getofftheinternet.net/ is 693405
+Registration process in http://sanfrancisco.getofftheinternet.net/ successful using username 'smitra02' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-56, started)> exiting...
+Registration process in http://scoopbookmarks.info/ successful using username 'smitra02' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-59, started)> exiting...
+Processing website (#75): http://seotagg.com/
+Number of threads: 3
+Creating thread <Thread(Thread-63, initial)>
+Processing website (#76): http://seosocial.info/
+Number of threads: 4
+Creating thread <Thread(Thread-64, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://saysaid.com/ successful using username 'smitra02' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-57, started)> exiting...
+Processing website (#77): http://shinymarker.com/
+Number of threads: 4
+Creating thread <Thread(Thread-65, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#78): http://shoppingtags.net/
+Starting thread <Thread(Thread-61, initial)>
+Starting thread <Thread(Thread-62, initial)>
+Starting thread <Thread(Thread-63, initial)>
+Starting thread <Thread(Thread-64, initial)>
+Starting thread <Thread(Thread-65, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-62, started)> starting - URL: http://sexstoriespost.com/ Creds: smitra08/spmprx
+Registration Failed. Thread Id <Thread(Thread-62, started)> exiting... 
+Registration Thread Id <Thread(Thread-61, started)> starting - URL: http://seobukmark.info/ Creds: smitra08/spmprx
+Registration Thread Id <Thread(Thread-64, started)> starting - URL: http://seosocial.info/ Creds: smitra08/spmprx
+Registration Thread Id <Thread(Thread-65, started)> starting - URL: http://shinymarker.com/ Creds: smitra08/spmprx
+Registration Thread Id <Thread(Thread-63, started)> starting - URL: http://seotagg.com/ Creds: smitra08/spmprx
+Captcha Text for http://seotagg.com/ is 562974
+Registration process in http://seotagg.com/ successful using username 'smitra08' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-63, started)> exiting...
+Registration process in http://shinymarker.com/ successful using username 'smitra08' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-65, started)> exiting...
+Processing website (#79): http://simple-hosting.com/
+Number of threads: 2
+Creating thread <Thread(Thread-66, initial)>
+Processing website (#80): http://sitebookmarks.info/
+Number of threads: 3
+Creating thread <Thread(Thread-67, initial)>
+Processing website (#81): http://www.shiur.com/
+Number of threads: 4
+Creating thread <Thread(Thread-68, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://seobukmark.info/ successful using username 'smitra08' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-61, started)> exiting...
+Registration process in http://seosocial.info/ successful using username 'smitra08' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-64, started)> exiting...
+Processing website (#82): http://site2c.info/
+Number of threads: 3
+Creating thread <Thread(Thread-69, initial)>
+Processing website (#83): http://skanklover.com/
+Number of threads: 4
+Creating thread <Thread(Thread-70, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#84): http://slayers-scythe.proboards.com/
+Starting thread <Thread(Thread-67, initial)>
+Starting thread <Thread(Thread-68, initial)>
+Starting thread <Thread(Thread-69, initial)>
+Starting thread <Thread(Thread-70, initial)>
+Starting thread <Thread(Thread-66, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-67, started)> starting - URL: http://sitebookmarks.info/ Creds: smitra04/spmprx
+Registration Thread Id <Thread(Thread-70, started)> starting - URL: http://skanklover.com/ Creds: smitra04/spmprx
+Registration Thread Id <Thread(Thread-66, started)> starting - URL: http://simple-hosting.com/ Creds: smitra04/spmprx
+Registration Failed. Thread Id <Thread(Thread-66, started)> exiting... 
+Registration Thread Id <Thread(Thread-69, started)> starting - URL: http://site2c.info/ Creds: smitra04/spmprx
+Registration Thread Id <Thread(Thread-68, started)> starting - URL: http://www.shiur.com/ Creds: smitra04/spmprx
+Registration process in http://skanklover.com/ successful using username 'smitra04' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-70, started)> exiting...
+Processing website (#85): http://sitestomark.com/
+Number of threads: 3
+Creating thread <Thread(Thread-71, initial)>
+Processing website (#86): http://slavija.proboards.com/
+Number of threads: 4
+Creating thread <Thread(Thread-72, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://sitebookmarks.info/ successful using username 'smitra04' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-67, started)> exiting...
+Registration process in http://site2c.info/ successful using username 'smitra04' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-69, started)> exiting...
+Processing website (#87): http://smetube.com/
+Number of threads: 3
+Creating thread <Thread(Thread-73, initial)>
+Processing website (#88): http://sharneefenwick.com/
+Number of threads: 4
+Creating thread <Thread(Thread-74, initial)>
+Number of concurrent threads at this instant: 5
+Captcha Text for http://www.shiur.com/ is None
+Registration process in http://www.shiur.com/ successful using username 'smitra04' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-68, started)> exiting...
+Processing website (#89): http://site.jewelrynanny.com/
+Number of threads: 4
+Creating thread <Thread(Thread-75, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#90): http://social-bookmarkz.info/
+Starting thread <Thread(Thread-74, initial)>
+Starting thread <Thread(Thread-73, initial)>
+Starting thread <Thread(Thread-72, initial)>
+Starting thread <Thread(Thread-71, initial)>
+Starting thread <Thread(Thread-75, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-74, started)> starting - URL: http://sharneefenwick.com/ Creds: smitra10/spmprx
+Registration Thread Id <Thread(Thread-73, started)> starting - URL: http://smetube.com/ Creds: smitra10/spmprx
+Registration Thread Id <Thread(Thread-72, started)> starting - URL: http://slavija.proboards.com/ Creds: smitra10/spmprx
+Registration Failed. Thread Id <Thread(Thread-73, started)> exiting... 
+Registration Thread Id <Thread(Thread-71, started)> starting - URL: http://sitestomark.com/ Creds: smitra10/spmprx
+Registration Thread Id <Thread(Thread-75, started)> starting - URL: http://site.jewelrynanny.com/ Creds: smitra10/spmprx
+Registration Failed. Thread Id <Thread(Thread-75, started)> exiting... 
+Processing website (#91): http://socialbyte.info/
+Number of threads: 3
+Creating thread <Thread(Thread-76, initial)>
+Processing website (#92): http://smartwally.com/
+Number of threads: 4
+Creating thread <Thread(Thread-77, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://slavija.proboards.com/ successful using username 'smitra10' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-72, started)> exiting...
+Registration process in http://sharneefenwick.com/ successful using username 'smitra10' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-74, started)> exiting...
+Processing website (#93): http://socialmediafouls.com/
+Number of threads: 3
+Creating thread <Thread(Thread-78, initial)>
+Processing website (#94): http://social-bookmarks-site.com/
+Number of threads: 4
+Creating thread <Thread(Thread-79, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://sitestomark.com/ successful using username 'smitra10' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-71, started)> exiting...
+Processing website (#95): http://socialdofollow.com/
+Number of threads: 4
+Creating thread <Thread(Thread-80, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#96): http://socialoverdoze.com/
+Starting thread <Thread(Thread-79, initial)>
+Starting thread <Thread(Thread-78, initial)>
+Starting thread <Thread(Thread-77, initial)>
+Starting thread <Thread(Thread-76, initial)>
+Starting thread <Thread(Thread-80, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-79, started)> starting - URL: http://social-bookmarks-site.com/ Creds: smitra06/spmprx
+Registration Thread Id <Thread(Thread-78, started)> starting - URL: http://socialmediafouls.com/ Creds: smitra06/spmprx
+Registration Thread Id <Thread(Thread-77, started)> starting - URL: http://smartwally.com/ Creds: smitra06/spmprx
+Registration process in http://social-bookmarks-site.com/ successful using username 'smitra06' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-79, started)> exiting...
+Registration process in http://smartwally.com/ successful using username 'smitra06' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-77, started)> exiting...
+Registration process in http://socialmediafouls.com/ successful using username 'smitra06' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-78, started)> exiting...
+Registration Thread Id <Thread(Thread-76, started)> starting - URL: http://socialbyte.info/ Creds: smitra06/spmprx
+Registration Thread Id <Thread(Thread-80, started)> starting - URL: http://socialdofollow.com/ Creds: smitra06/spmprx
+Registration process in http://socialbyte.info/ successful using username 'smitra06' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-76, started)> exiting...
+Registration Failed. Thread Id <Thread(Thread-80, started)> exiting... 
+Processing website (#97): http://southernsaturdays.com/
+Number of threads: 0
+Creating thread <Thread(Thread-81, initial)>
+Processing website (#98): http://speedfed.com/
+Number of threads: 1
+Creating thread <Thread(Thread-82, initial)>
+Processing website (#99): http://sportr.it/
+Number of threads: 2
+Creating thread <Thread(Thread-83, initial)>
+Processing website (#100): http://southfloridabusinessnews.com/
+Number of threads: 3
+Creating thread <Thread(Thread-84, initial)>
+Successfully registered in 50 of the 100 websites listed
+Attempting to verify all emailed links...
+Inbox Page # 1: 45 emails
+Message URL: 1_121470_AOB13rQAAHh6TydDZgiGhkqbLko
+Followed link http://internetaffiliate.biz/validation.php?code=d9d23d6a3d9cb057a660b0e047df1c1a&uid=smitra04
+Message URL: 1_103442_AIJ03rQAAUp6TydCegNQEQ9fyVw
+Followed link http://www.forexbookmarks.com/validation.php?code=0cc1e5fa560d9cedc9c022624bc6769d&uid=smitra02
+Message URL: 1_131811_AOR13rQAAXpmTydbJwj5CT8T5oA
+Message URL: 1_105388_AOF13rQAAH3MTydCfwJ361K2w+0
+Followed link http://www.freebookmarkmanager.com/validation.php?code=be0b13a3ee05b8798b3b132e738c8dfb&uid=smitra02
+Message URL: 1_126022_AOd13rQAALfTTydaGQVxX2yfnXs
+Message URL: 1_117125_AOd13rQAACq6TydGFgWwVzyEXjA
+Message URL: 1_139661_AN513rQAAO5TTydb2gplC0cF40M
+Followed link http://smartwally.com/validation.php?code=ed352fa5484bb30fb54067436015e8d7&uid=smitra06
+Message URL: 1_120918_AIt03rQAAA+STydGYgvaDlE2zEg
+Message URL: 1_125043_AIJ03rQAAIDjTydZ8wv7kDEu5lY
+Followed link http://www.ophee.com/validation.php?code=f0d448c070d81a3eda134d8e47885b04&uid=smitra09
+Message URL: 1_110194_AIR03rQAAEWBTydDTgljiQ1LzYU
+Followed link http://indexhood.com/validation.php?code=2da904be96a3ca519a8f31c69e933c71&uid=smitra08
+Message URL: 1_100464_AIh03rQAAC5+TydB+Q4/yEiEmCw
+Followed link http://dofollowbookmarks.info/validation.php?code=117a180b3818151a6b848e3268c7892b&uid=smitra05
+Message URL: 1_101496_AIN03rQAAV+mTydCBAmzImvWIXQ
+Followed link http://dopior.net/dp/validation.php?code=607a9e5c3ac3b70de7baf66f45282354&uid=smitra08
+Message URL: 1_124034_AOF13rQAAVSgTydZ4wUfDgFE2fQ
+Message URL: 1_118073_AIZ03rQAAVMjTydGFgbYLzyEXjA
+Message URL: 1_104455_AOV13rQAAExWTydCegUkqQ9fyVw
+Message URL: 1_107328_AIZ03rQAATVwTydC4Qm0Zlxg6YU
+Message URL: 1_133724_AIN03rQAAJ9+TydbSAV9Q3eQoXs
+Followed link http://www.shinymarker.com/validation.php?code=853d5c23d41101d8408979cc235ef77c&uid=smitra08
+Message URL: 1_129793_AN513rQAAOvQTydaoAXxpFXFdCo
+Followed link http://www.queuepons.com/validation.php?code=c54a47904c700cb811172e85af1a9837&uid=smitra09
+Message URL: 1_98473_AIt03rQAAWTmTydBnQScu2AA1hw
+Followed link http://www.designpoke.com/validation.php?code=c6165ba2f950918568e2f1778a16c161&uid=smitra10
+Message URL: 1_114090_AOJ13rQAAHJbTydEwwNLlGwxiLo
+Followed link http://www.microrival.com/validation.php?code=1a61a00ca83df1d5c80498ed9ed1e779&uid=smitra02
+Message URL: 1_140586_AON13rQAAPz8TydcDQCAs2ImctA
+Followed link http://socialbyte.info/validation.php?code=116bdc3804c59379111667f877f16940&uid=smitra06
+Message URL: 1_102477_AOd13rQAAA+yTydCMweN9llrr1Q
+Followed link http://www.diggsex.com/validation.php?code=9b7283bbfee42e0f480a4611ca0fbf99&uid=smitra03
+Message URL: 1_113104_AN513rQAAE3qTydEjwwdzHj8YMM
+Followed link http://linkorati.info/validation.php?code=628a9aace6fc49be6630119dff9d3697&uid=smitra10
+Message URL: 1_122068_AIJ03rQAAHS9TydZ2Ai/AVuDKpY
+Message URL: 1_115091_AIt03rQAAA+STydF7gonFUoiGkE
+Followed link http://www.mediafandom.com/validation.php?code=211c2cbf99a233f5db3fb17fadb5edde&uid=smitra08
+Message URL: 1_132756_AIN03rQAAJciTydbLgGFJX2ujho
+Followed link http://saysaid.com/validation.php?code=5569e082d11931aa315e76809a69e4a6&uid=smitra02
+Message URL: 1_122987_AOF13rQAAVSgTydZ4wQ70gFE2fQ
+Followed link http://www.parapazzi.com/validation.php?code=26b2e1173b64a15d5e12e493d3413d8d&uid=smitra09
+Message URL: 1_112098_AN513rQAAFGXTydEUQE2Y3gQE88
+Followed link http://www.linksgutter.com/validation.php?code=ba82399e7c3ef0a28f4f93037847d20a&uid=smitra04
+Message URL: 1_134722_AIR03rQAAO8sTydbSA08x3eQoXs
+Message URL: 1_135646_AOd13rQAAMsGTydbTgMJ9FmGvt8
+Followed link http://helpawebsite.com/validation.php?code=97ea3cf23761ca348fd8db9cf0f24faa&uid=smitra08
+Message URL: 1_136697_AIR03rQAAO9rTydbTgV/1VmGvt8
+Followed link http://seobukmark.info/validation.php?code=1c8550943f7997b8ceab25e7c2d203b7&uid=smitra08
+Message URL: 1_126976_AON13rQAAPAsTydaPwwvoWjH3OA
+Followed link http://pliggthis.com/validation.php?code=4ec2f60b29ce86272ec11a37cff1b5b6&uid=smitra08
+Message URL: 1_109222_AOZ13rQAAKstTydDQwfoKiIKnDI
+Followed link http://hubtags.info/validation.php?code=6ae35bc5275c5aaf72f45c510ef0e321&uid=smitra08
+Message URL: 1_119922_AOF13rQAAMINTydGXQ4p0XHsNm4
+Followed link http://news.polarmaru.org/validation.php?code=08aff1adbc32da50945112f4fcd53adc&uid=smitra02
+Message URL: 1_99470_AIt03rQAAXw6TydBpQv5YnR2mwI
+Message URL: 1_118984_AOB13rQAAIV2TydGQA0OkCID0WY
+Message URL: 1_128868_AIh03rQAAODATydakgbiq2Ci8x0
+Message URL: 1_106427_AIJ03rQAAR5ETydCxAXOblKQdZM
+Message URL: 1_130798_AIt03rQAALUfTydbJwFBOj8T5oA
+Followed link http://scoopbookmarks.info/validation.php?code=481fab5c764e9c947506d2f38da07c66&uid=smitra02
+Message URL: 1_116102_AIh03rQAAE+WTydGDQRZ6Eov5zc
+Followed link http://monsterbookmarks.info/validation.php?code=8975ac346334f9826a9345a60573b958&uid=smitra04
+Message URL: 1_137686_AOd13rQAAL0mTydbbADLfz4mI/M
+Followed link http://sitebookmarks.info/validation.php?code=ea5b0496558f9f03ed9c8c83884841ac&uid=smitra04
+Message URL: 1_111177_AN513rQAAE3qTydDTgnXhA1LzYU
+Message URL: 1_138692_AId03rQAAG4OTydbiQs9xQs6MKY
+Followed link http://site2c.info/validation.php?code=cebfc6ea34b2a0230b38b8111fadb0be&uid=smitra04
+Message URL: 1_127953_AIR03rQAAOVwTydaQAVKqB7vzEk
+Message URL: 1_108263_AOd13rQAAA+yTydC6A7OkxeUtTo
+Followed link http://grogg.ca/validation.php?code=12ef0fca33e7d6baa067bf3fd072a88d&uid=smitra10
+Inbox Page # 2: 46 emails
+Message URL: 1_87604_AIh03rQAAWkHTyc5EAO9JTqLrds
+Followed link http://bookmark.idigitalnet.com/validation.php?code=5b339555b06ad23979bcbb858519dae4&uid=smitra08
+Message URL: 1_121470_AOB13rQAAHh6TydDZgiGhkqbLko
+Followed link http://internetaffiliate.biz/validation.php?code=d9d23d6a3d9cb057a660b0e047df1c1a&uid=smitra04
+Message URL: 1_103442_AIJ03rQAAUp6TydCegNQEQ9fyVw
+Followed link http://www.forexbookmarks.com/validation.php?code=0cc1e5fa560d9cedc9c022624bc6769d&uid=smitra02
+Message URL: 1_101496_AIN03rQAAV+mTydCBAmzImvWIXQ
+Followed link http://dopior.net/dp/validation.php?code=607a9e5c3ac3b70de7baf66f45282354&uid=smitra08
+Message URL: 1_77488_AIN03rQAAQ28Tyc3ZwHw0SOln5g
+Followed link http://www.clevergamer.com/validation.php?code=dcecabaa384e434e1a25ed4cab6193ef&uid=smitra06
+Message URL: 1_85515_AIN03rQAAQ71Tyc43gdezzrEOSs
+Followed link http://bestblogsbrasil.com.br/validation.php?code=4a1a9606a64ddc670c54b018bfcf7683&uid=smitra06
+Message URL: 1_82493_AN513rQAAWsiTyc4RQx1LC4K73I
+Message URL: 1_86593_AIp03rQAATXfTyc47QHy5Q+ETV8
+Followed link http://www.blogbookmark.com/validation.php?code=a68806eb6bae29120882797972d9c2f9&uid=smitra04
+Message URL: 1_97459_AOV13rQAACmRTydBHAjMI1WIB5A
+Followed link http://buzzit.bestsail.org/validation.php?code=27c9102bbea4b906b188cc26bac618e8&uid=smitra06
+Message URL: 1_81474_AOB13rQAAXx0Tyc30AP1X2scUcI
+Followed link http://www.yoconmarkit.co.uk/validation.php?code=4547024ad818d678b87d9b3d78de9617&uid=smitra04
+Message URL: 1_80547_AIN03rQAAQfsTyc3zwzv/E+jaEc
+Message URL: 1_99470_AIt03rQAAXw6TydBpQv5YnR2mwI
+Message URL: 1_100464_AIh03rQAAC5+TydB+Q4/yEiEmCw
+Followed link http://dofollowbookmarks.info/validation.php?code=117a180b3818151a6b848e3268c7892b&uid=smitra05
+Message URL: 1_110194_AIR03rQAAEWBTydDTgljiQ1LzYU
+Followed link http://indexhood.com/validation.php?code=2da904be96a3ca519a8f31c69e933c71&uid=smitra08
+Message URL: 1_95469_AIN03rQAARuwTyc5VQt6+3cMzvc
+Followed link http://bookmarkworld.info/validation.php?code=a609e106eecdf528fe2b0aa7bc32476c&uid=smitra06
+Message URL: 1_112098_AN513rQAAFGXTydEUQE2Y3gQE88
+Followed link http://www.linksgutter.com/validation.php?code=ba82399e7c3ef0a28f4f93037847d20a&uid=smitra04
+Message URL: 1_105388_AOF13rQAAH3MTydCfwJ361K2w+0
+Followed link http://www.freebookmarkmanager.com/validation.php?code=be0b13a3ee05b8798b3b132e738c8dfb&uid=smitra02
+Message URL: 1_104455_AOV13rQAAExWTydCegUkqQ9fyVw
+Message URL: 1_107328_AIZ03rQAATVwTydC4Qm0Zlxg6YU
+Message URL: 1_83399_AIh03rQAAWjDTyc4iQFIdw/h0B0
+Followed link http://backlinkvault.com/validation.php?code=2e2b8b5a817aef21d7ffb1c1e55e2047&uid=smitra04
+Message URL: 1_91631_AON13rQAAX22Tyc5SQNvT3asFVw
+Message URL: 1_98473_AIt03rQAAWTmTydBnQScu2AA1hw
+Followed link http://www.designpoke.com/validation.php?code=c6165ba2f950918568e2f1778a16c161&uid=smitra10
+Message URL: 1_114090_AOJ13rQAAHJbTydEwwNLlGwxiLo
+Followed link http://www.microrival.com/validation.php?code=1a61a00ca83df1d5c80498ed9ed1e779&uid=smitra02
+Message URL: 1_96470_AN513rQAADx3TydBDQAyewTkk30
+Followed link http://buzz.webbiru.com/validation.php?code=cc50bcc7bc803d3e2ef3488b080d4891&uid=smitra06
+Message URL: 1_74631_AOB13rQAAQ74TycnxA1nL3Oe8Bs
+Message URL: 1_102477_AOd13rQAAA+yTydCMweN9llrr1Q
+Followed link http://www.diggsex.com/validation.php?code=9b7283bbfee42e0f480a4611ca0fbf99&uid=smitra03
+Message URL: 1_113104_AN513rQAAE3qTydEjwwdzHj8YMM
+Followed link http://linkorati.info/validation.php?code=628a9aace6fc49be6630119dff9d3697&uid=smitra10
+Message URL: 1_22_AOV13rQAAXG+TyaxLAB0dAOccuw
+Message URL: 1_115091_AIt03rQAAA+STydF7gonFUoiGkE
+Followed link http://www.mediafandom.com/validation.php?code=211c2cbf99a233f5db3fb17fadb5edde&uid=smitra08
+Message URL: 1_84394_AOV13rQAAYOMTyc4vwrK8Dnpp7s
+Followed link http://avto-mobili.by/validation.php?code=272d2b1d1ac31cfa7c7c54d9e658422d&uid=smitra10
+Message URL: 1_94556_AIp03rQAARrzTyc5VQoF3XcMzvc
+Message URL: 1_79392_AIV03rQAAUVrTyc3uQtHyn5pSFc
+Message URL: 1_75566_AIl03rQAAF2gTycn3QiU0VTzU4s
+Message URL: 1_78483_AOR13rQAAGHnTyc3ewoTdADQ87U
+Message URL: 1_89665_AOZ13rQAAHCLTyc5RwYeNUDDDqU
+Message URL: 1_109222_AOZ13rQAAKstTydDQwfoKiIKnDI
+Followed link http://hubtags.info/validation.php?code=6ae35bc5275c5aaf72f45c510ef0e321&uid=smitra08
+Message URL: 1_76475_AIp03rQAALhWTycpcA6OWRup5nk
+Followed link http://www.itafoo.com/validation.php?code=73eb3b791c1798b2cc504b24b093a9ed&uid=smitra08
+Message URL: 1_93561_AN913rQAADCQTyc5VQUUu3cMzvc
+Followed link http://www.bookmarklogs.info/validation.php?code=2560a4ab9ecc9c60bb6cbcb7bdbcd58f&uid=smitra06
+Message URL: 1_88628_AOR13rQAAGNtTyc5Iwvsny1skDA
+Followed link http://www.backlinkdofollow.com/validation.php?code=cb0adc58729083fbfb60813122f72959&uid=smitra10
+Message URL: 1_90624_AIp03rQAAX/qTyc5SAvBdhoDyiM
+Followed link http://bookmarkmany.info/validation.php?code=3591c51e06621d46aba7b90d498fb2b8&uid=smitra06
+Message URL: 1_106427_AIJ03rQAAR5ETydCxAXOblKQdZM
+Message URL: 1_116102_AIh03rQAAE+WTydGDQRZ6Eov5zc
+Followed link http://monsterbookmarks.info/validation.php?code=8975ac346334f9826a9345a60573b958&uid=smitra04
+Message URL: 1_111177_AN513rQAAE3qTydDTgnXhA1LzYU
+Message URL: 1_73602_AIN03rQAAI1uTycnxAUyu3Oe8Bs
+Followed link http://www.freehotlinksdirectory.com/validation.php?code=f699ac669e81ed1d6db36176b585d7a4&uid=smitra04
+Message URL: 1_92566_AON13rQAAXM3Tyc5VA27gR21gz4
+Message URL: 1_108263_AOd13rQAAA+yTydC6A7OkxeUtTo
+Followed link http://grogg.ca/validation.php?code=12ef0fca33e7d6baa067bf3fd072a88d&uid=smitra10
+Inbox Page # 3: 21 emails
+Message URL: 1_22_AOV13rQAAXG+TyaxLAB0dAOccuw
+Message URL: 1_95469_AIN03rQAARuwTyc5VQt6+3cMzvc
+Followed link http://bookmarkworld.info/validation.php?code=a609e106eecdf528fe2b0aa7bc32476c&uid=smitra06
+Message URL: 1_87604_AIh03rQAAWkHTyc5EAO9JTqLrds
+Followed link http://bookmark.idigitalnet.com/validation.php?code=5b339555b06ad23979bcbb858519dae4&uid=smitra08
+Message URL: 1_76475_AIp03rQAALhWTycpcA6OWRup5nk
+Followed link http://www.itafoo.com/validation.php?code=73eb3b791c1798b2cc504b24b093a9ed&uid=smitra08
+Message URL: 1_78483_AOR13rQAAGHnTyc3ewoTdADQ87U
+Message URL: 1_77488_AIN03rQAAQ28Tyc3ZwHw0SOln5g
+Followed link http://www.clevergamer.com/validation.php?code=dcecabaa384e434e1a25ed4cab6193ef&uid=smitra06
+Message URL: 1_88628_AOR13rQAAGNtTyc5Iwvsny1skDA
+Followed link http://www.backlinkdofollow.com/validation.php?code=cb0adc58729083fbfb60813122f72959&uid=smitra10
+Message URL: 1_85515_AIN03rQAAQ71Tyc43gdezzrEOSs
+Followed link http://bestblogsbrasil.com.br/validation.php?code=4a1a9606a64ddc670c54b018bfcf7683&uid=smitra06
+Message URL: 1_90624_AIp03rQAAX/qTyc5SAvBdhoDyiM
+Followed link http://bookmarkmany.info/validation.php?code=3591c51e06621d46aba7b90d498fb2b8&uid=smitra06
+Message URL: 1_84394_AOV13rQAAYOMTyc4vwrK8Dnpp7s
+Followed link http://avto-mobili.by/validation.php?code=272d2b1d1ac31cfa7c7c54d9e658422d&uid=smitra10
+Message URL: 1_82493_AN513rQAAWsiTyc4RQx1LC4K73I
+Message URL: 1_86593_AIp03rQAATXfTyc47QHy5Q+ETV8
+Followed link http://www.blogbookmark.com/validation.php?code=a68806eb6bae29120882797972d9c2f9&uid=smitra04
+Message URL: 1_75566_AIl03rQAAF2gTycn3QiU0VTzU4s
+Message URL: 1_83399_AIh03rQAAWjDTyc4iQFIdw/h0B0
+Followed link http://backlinkvault.com/validation.php?code=2e2b8b5a817aef21d7ffb1c1e55e2047&uid=smitra04
+Message URL: 1_73602_AIN03rQAAI1uTycnxAUyu3Oe8Bs
+Followed link http://www.freehotlinksdirectory.com/validation.php?code=f699ac669e81ed1d6db36176b585d7a4&uid=smitra04
+Message URL: 1_74631_AOB13rQAAQ74TycnxA1nL3Oe8Bs
+Message URL: 1_81474_AOB13rQAAXx0Tyc30AP1X2scUcI
+Followed link http://www.yoconmarkit.co.uk/validation.php?code=4547024ad818d678b87d9b3d78de9617&uid=smitra04
+Message URL: 1_80547_AIN03rQAAQfsTyc3zwzv/E+jaEc
+Message URL: 1_91631_AON13rQAAX22Tyc5SQNvT3asFVw
+Message URL: 1_79392_AIV03rQAAUVrTyc3uQtHyn5pSFc
+Message URL: 1_89665_AOZ13rQAAHCLTyc5RwYeNUDDDqU
+Number of sites to post to: 100
+Number of threads: 0
+Number of threads: 1
+Number of threads: 2
+Number of threads: 3
+Number of threads: 4
+Starting thread <Thread(Thread-86, started)>
+Starting thread <Thread(Thread-85, started)>
+Starting thread <Thread(Thread-88, started)>
+Starting thread <Thread(Thread-87, started)>
+Starting thread <Thread(Thread-89, started)>
+Attempting to post to http://mysocial.co.uk/ using username 'smitra06' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-87, started)> starting - URL: http://mysocial.co.uk/
+Attempting to post to http://northcoastoregon.proboards.com/ using username 'smitra06' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-88, started)> starting - URL: http://northcoastoregon.proboards.com/
+Failed to post story to http://northcoastoregon.proboards.com/ - <Thread(Thread-88, started)> exiting...
+Attempting to post to http://notiziedicalcio.com/ using username 'smitra06' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-85, started)> starting - URL: http://notiziedicalcio.com/
+Attempting to post to http://onlinesshopping.com/ using username 'smitra05' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-89, started)> starting - URL: http://onlinesshopping.com/
+Attempting to post to http://nodds.com/ using username 'smitra06' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-86, started)> starting - URL: http://nodds.com/
+Failed to post story to http://onlinesshopping.com/ - <Thread(Thread-89, started)> exiting...
+Number of threads: 3
+Number of threads: 4
+Failed to post story to http://nodds.com/ - <Thread(Thread-86, started)> exiting...
+Adding database entry for the storyUrl http://notiziedicalcio.com
+Successfully posted story to http://notiziedicalcio.com/ - <Thread(Thread-85, started)> exiting...
+Adding database entry for the storyUrl http://mysocial.co.uk
+Successfully posted story to http://mysocial.co.uk/ - <Thread(Thread-87, started)> exiting...
+Number of threads: 2
+Number of threads: 3
+Number of threads: 4
+Starting thread <Thread(Thread-90, started)>
+Starting thread <Thread(Thread-92, started)>
+Starting thread <Thread(Thread-91, started)>
+Starting thread <Thread(Thread-94, started)>
+Starting thread <Thread(Thread-93, started)>
+Attempting to post to http://pantyhosehound.com/ using username 'smitra04' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-93, started)> starting - URL: http://pantyhosehound.com/
+Attempting to post to http://perfectlittlepublishing.com/ using username 'smitra04' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-91, started)> starting - URL: http://perfectlittlepublishing.com/
+Attempting to post to http://parapazzi.com/ using username 'smitra09' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-90, started)> starting - URL: http://parapazzi.com/
+Attempting to post to http://pianolinks.1stclasslinks.info/ using username 'smitra04' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-92, started)> starting - URL: http://pianolinks.1stclasslinks.info/
+Attempting to post to http://panodigg.giuseppevaccaro.ch/ using username 'smitra10' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-94, started)> starting - URL: http://panodigg.giuseppevaccaro.ch/
+Failed to post story to http://pianolinks.1stclasslinks.info/ - <Thread(Thread-92, started)> exiting...
+Adding database entry for the storyUrl http://pantyhosehound.com/story.php?title=did-linus-jump-the-gun-on-a-kernel-security-update-
+Successfully posted story to http://pantyhosehound.com/ - <Thread(Thread-93, started)> exiting...
+Adding database entry for the storyUrl http://panodigg.giuseppevaccaro.ch/out.php?title=did-linus-jump-the-gun-on-a-kernel-security-fix-
+Successfully posted story to http://panodigg.giuseppevaccaro.ch/ - <Thread(Thread-94, started)> exiting...
+Number of threads: 2
+Number of threads: 3
+Number of threads: 4
+Starting thread <Thread(Thread-96, started)>
+Starting thread <Thread(Thread-95, started)>
+Starting thread <Thread(Thread-97, started)>
+Attempting to post to http://pleaseprayfor.org/ using username 'smitra10' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-96, started)> starting - URL: http://pleaseprayfor.org/
+Attempting to post to http://www.pligg-it.de/ using username 'smitra10' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-97, started)> starting - URL: http://www.pligg-it.de/
+Attempting to post to http://pedablogy.com/ using username 'smitra10' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-95, started)> starting - URL: http://pedablogy.com/
+Failed to post story to http://www.pligg-it.de/ - <Thread(Thread-97, started)> exiting...
+Number of threads: 4
+Failed to post story to http://pedablogy.com/ - <Thread(Thread-95, started)> exiting...
+Failed to post story to http://pleaseprayfor.org/ - <Thread(Thread-96, started)> exiting...
+Number of threads: 3
+Number of threads: 4
+Starting thread <Thread(Thread-98, started)>
+Starting thread <Thread(Thread-100, started)>
+Starting thread <Thread(Thread-99, started)>
+Attempting to post to http://pornoflow.com/ using username 'smitra02' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-99, started)> starting - URL: http://pornoflow.com/
+Attempting to post to http://pliggthis.com/ using username 'smitra08' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-98, started)> starting - URL: http://pliggthis.com/
+Attempting to post to http://publichealthdownloads.com/ using username 'smitra02' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-100, started)> starting - URL: http://publichealthdownloads.com/
+Failed to post story to http://pornoflow.com/ - <Thread(Thread-99, started)> exiting...
+Failed to post story to http://pliggthis.com/ - <Thread(Thread-98, started)> exiting...
+Adding database entry for the storyUrl http://publichealthdownloads.com/story.php?title=did-linus-jump-the-gun-on-a-kernel-security-fix-
+Successfully posted story to http://publichealthdownloads.com/ - <Thread(Thread-100, started)> exiting...
+Number of threads: 2
+Number of threads: 3
+Number of threads: 4
+Starting thread <Thread(Thread-102, started)>
+Starting thread <Thread(Thread-101, started)>
+Starting thread <Thread(Thread-103, started)>
+Attempting to post to http://ravintolatempo.com/ using username 'smitra08' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-103, started)> starting - URL: http://ravintolatempo.com/
+Attempting to post to http://quickandlegal.com/ using username 'smitra09' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-101, started)> starting - URL: http://quickandlegal.com/
+Attempting to post to http://queuepons.com/ using username 'smitra09' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-102, started)> starting - URL: http://queuepons.com/
+Failed to post story to http://ravintolatempo.com/ - <Thread(Thread-103, started)> exiting...
+Number of threads: 4
+Failed to post story to http://quickandlegal.com/ - <Thread(Thread-101, started)> exiting...
+Failed to post story to http://queuepons.com/ - <Thread(Thread-102, started)> exiting...
+Number of threads: 3
+Number of threads: 4
+Starting thread <Thread(Thread-105, started)>
+Starting thread <Thread(Thread-106, started)>
+Starting thread <Thread(Thread-104, started)>
+Attempting to post to http://redemptionxxrpg.proboards.com/ using username 'smitra10' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-106, started)> starting - URL: http://redemptionxxrpg.proboards.com/
+Attempting to post to http://restaurantreviewsblog.info/ using username 'smitra04' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-105, started)> starting - URL: http://restaurantreviewsblog.info/
+Attempting to post to http://respondback.com/ using username 'smitra04' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-104, started)> starting - URL: http://respondback.com/
+Failed to post story to http://redemptionxxrpg.proboards.com/ - <Thread(Thread-106, started)> exiting...
+Number of threads: 4
+Failed to post story to http://respondback.com/ - <Thread(Thread-104, started)> exiting...
+Failed to post story to http://restaurantreviewsblog.info/ - <Thread(Thread-105, started)> exiting...
+Number of threads: 3
+Number of threads: 4
+Starting thread <Thread(Thread-109, started)>
+Starting thread <Thread(Thread-107, started)>
+Starting thread <Thread(Thread-108, started)>
+Attempting to post to http://safarisamsclub.com/ using username 'smitra06' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-109, started)> starting - URL: http://safarisamsclub.com/
+Attempting to post to http://riskingitall.proboards.com/ using username 'smitra09' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-108, started)> starting - URL: http://riskingitall.proboards.com/
+Attempting to post to http://s205508405.onlinehome.fr/ using username 'smitra10' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-107, started)> starting - URL: http://s205508405.onlinehome.fr/
+Failed to post story to http://riskingitall.proboards.com/ - <Thread(Thread-108, started)> exiting...
+Failed to post story to http://safarisamsclub.com/ - <Thread(Thread-109, started)> exiting...
+Number of threads: 3
+Number of threads: 4
+Failed to post story to http://s205508405.onlinehome.fr/ - <Thread(Thread-107, started)> exiting...
+Number of threads: 4
+Starting thread <Thread(Thread-110, started)>
+Starting thread <Thread(Thread-111, started)>
+Starting thread <Thread(Thread-112, started)>
+Attempting to post to http://scoopbookmarks.info/ using username 'smitra02' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-111, started)> starting - URL: http://scoopbookmarks.info/
+Attempting to post to http://saysaid.com/ using username 'smitra02' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-110, started)> starting - URL: http://saysaid.com/
+Attempting to post to http://seldane.proboards.com/ using username 'smitra02' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-112, started)> starting - URL: http://seldane.proboards.com/
+Failed to post story to http://seldane.proboards.com/ - <Thread(Thread-112, started)> exiting...
+Number of threads: 4
+Failed to post story to http://saysaid.com/ - <Thread(Thread-110, started)> exiting...
+Adding database entry for the storyUrl http://scoopbookmarks.info/story.php?id=63376
+Successfully posted story to http://scoopbookmarks.info/ - <Thread(Thread-111, started)> exiting...
+Number of threads: 3
+Number of threads: 4
+Starting thread <Thread(Thread-113, started)>
+Starting thread <Thread(Thread-114, started)>
+Starting thread <Thread(Thread-115, started)>
+Attempting to post to http://seotagg.com/ using username 'smitra08' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-113, started)> starting - URL: http://seotagg.com/
+Attempting to post to http://seosocial.info/ using username 'smitra08' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-114, started)> starting - URL: http://seosocial.info/
+Attempting to post to http://shinymarker.com/ using username 'smitra08' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-115, started)> starting - URL: http://shinymarker.com/
+Failed to post story to http://seotagg.com/ - <Thread(Thread-113, started)> exiting...
+Failed to post story to http://seosocial.info/ - <Thread(Thread-114, started)> exiting...
+Number of threads: 2
+Number of threads: 3
+Number of threads: 4
+Starting thread <Thread(Thread-116, started)>
+Starting thread <Thread(Thread-118, started)>
+Starting thread <Thread(Thread-117, started)>
+Attempting to post to http://skanklover.com/ using username 'smitra04' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-118, started)> starting - URL: http://skanklover.com/
+Attempting to post to http://site2c.info/ using username 'smitra04' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-117, started)> starting - URL: http://site2c.info/
+Attempting to post to http://www.shiur.com/ using username 'smitra04' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-116, started)> starting - URL: http://www.shiur.com/
+Failed to post story to http://skanklover.com/ - <Thread(Thread-118, started)> exiting...
+Number of threads: 4
+Failed to post story to http://www.shiur.com/ - <Thread(Thread-116, started)> exiting...
+Failed to post story to http://site2c.info/ - <Thread(Thread-117, started)> exiting...
+Number of threads: 3
+Number of threads: 4
+Starting thread <Thread(Thread-121, started)>
+Starting thread <Thread(Thread-120, started)>
+Starting thread <Thread(Thread-119, started)>
+Attempting to post to http://sharneefenwick.com/ using username 'smitra10' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-120, started)> starting - URL: http://sharneefenwick.com/
+Attempting to post to http://slavija.proboards.com/ using username 'smitra10' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-119, started)> starting - URL: http://slavija.proboards.com/
+Failed to post story to http://slavija.proboards.com/ - <Thread(Thread-119, started)> exiting...
+Attempting to post to http://socialbyte.info/ using username 'smitra06' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-121, started)> starting - URL: http://socialbyte.info/
+Failed to post story to http://sharneefenwick.com/ - <Thread(Thread-120, started)> exiting...
+Adding database entry for the storyUrl http://socialbyte.info/story.php?id=401365
+Successfully posted story to http://socialbyte.info/ - <Thread(Thread-121, started)> exiting...
+Number of threads: 2
+Number of threads: 3
+Successfully posted to 7 websites

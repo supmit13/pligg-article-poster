@@ -1,0 +1,378 @@
+Starting application 'PliggAutoPostBot' - Sun, February 22, 2012Processing website (#1): http://scoopit.co.nz/
+Number of threads: 0
+Creating thread <Thread(Thread-1, initial)>
+Processing website (#2): http://secure.scoop.co.nz/
+Number of threads: 1
+Creating thread <Thread(Thread-2, initial)>
+Processing website (#3): http://share-a-porn.com/
+Number of threads: 2
+Creating thread <Thread(Thread-3, initial)>
+Processing website (#4): http://www.sheltonhead.com/
+Number of threads: 3
+Creating thread <Thread(Thread-4, initial)>
+Processing website (#5): http://shareyourpost.info/
+Number of threads: 4
+Creating thread <Thread(Thread-5, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#6): http://shoppingfave.com/
+Starting thread <Thread(Thread-2, initial)>
+Starting thread <Thread(Thread-1, initial)>
+Starting thread <Thread(Thread-4, initial)>
+Starting thread <Thread(Thread-3, initial)>
+Starting thread <Thread(Thread-5, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-4, started)> starting - URL: http://www.sheltonhead.com/ Creds: testsup28/spmprx
+Registration Failed. Thread Id <Thread(Thread-4, started)> exiting... 
+Registration Thread Id <Thread(Thread-3, started)> starting - URL: http://share-a-porn.com/ Creds: testsup28/spmprx
+Registration Thread Id <Thread(Thread-5, started)> starting - URL: http://shareyourpost.info/ Creds: testsup28/spmprx
+Registration Failed. Thread Id <Thread(Thread-3, started)> exiting... 
+Registration Thread Id <Thread(Thread-2, started)> starting - URL: http://secure.scoop.co.nz/ Creds: testsup28/spmprx
+Registration Thread Id <Thread(Thread-1, started)> starting - URL: http://scoopit.co.nz/ Creds: testsup28/spmprx
+Captcha Text for http://secure.scoop.co.nz/ is tq6jqr
+Captcha Text for http://scoopit.co.nz/ is 97rxh3
+Registration process in http://secure.scoop.co.nz/ successful using username 'testsup28' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-2, started)> exiting...
+Registration process in http://scoopit.co.nz/ successful using username 'testsup28' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-1, started)> exiting...
+Processing website (#7): http://smsjokesonline.com/
+Number of threads: 1
+Creating thread <Thread(Thread-6, initial)>
+Processing website (#8): http://so-best.com/
+Number of threads: 2
+Creating thread <Thread(Thread-7, initial)>
+Processing website (#9): http://www.socialnetworksites.ca/
+Number of threads: 3
+Creating thread <Thread(Thread-8, initial)>
+Processing website (#10): http://socialnewsbookmark.com/
+Number of threads: 4
+Creating thread <Thread(Thread-9, initial)>
+Number of concurrent threads at this instant: 5
+Registration Failed. Thread Id <Thread(Thread-5, started)> exiting... 
+Processing website (#11): http://www.socialnewscommunity.com/
+Number of threads: 4
+Creating thread <Thread(Thread-10, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#12): http://socialnewsnetworking.com/
+Starting thread <Thread(Thread-6, initial)>
+Starting thread <Thread(Thread-8, initial)>
+Starting thread <Thread(Thread-7, initial)>
+Starting thread <Thread(Thread-10, initial)>
+Starting thread <Thread(Thread-9, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-6, started)> starting - URL: http://smsjokesonline.com/ Creds: testsup24/spmprx
+Registration Thread Id <Thread(Thread-8, started)> starting - URL: http://www.socialnetworksites.ca/ Creds: testsup24/spmprx
+Registration Failed. Thread Id <Thread(Thread-6, started)> exiting... 
+Processing website (#13): http://specialbookmark.com/
+Number of threads: 4
+Creating thread <Thread(Thread-11, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-7, started)> starting - URL: http://so-best.com/ Creds: testsup25/spmprx
+Registration Thread Id <Thread(Thread-10, started)> starting - URL: http://www.socialnewscommunity.com/ Creds: testsup25/spmprx
+Registration process in http://www.socialnetworksites.ca/ successful using username 'testsup24' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-8, started)> exiting...
+Registration Thread Id <Thread(Thread-9, started)> starting - URL: http://socialnewsbookmark.com/ Creds: testsup25/spmprx
+Registration Failed. Thread Id <Thread(Thread-7, started)> exiting... 
+Processing website (#14): http://srek.net78.net/
+Number of threads: 3
+Creating thread <Thread(Thread-12, initial)>
+Processing website (#15): http://stationcarinfo.com/
+Number of threads: 4
+Creating thread <Thread(Thread-13, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://www.socialnewscommunity.com/ successful using username 'testsup25' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-10, started)> exiting...
+Registration process in http://socialnewsbookmark.com/ successful using username 'testsup25' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-9, started)> exiting...
+Processing website (#16): http://starsz.com/
+Number of threads: 3
+Creating thread <Thread(Thread-14, initial)>
+Processing website (#17): http://www.stupidpackages.com/
+Number of threads: 4
+Creating thread <Thread(Thread-15, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#18): http://southdakota.me/
+Starting thread <Thread(Thread-12, initial)>
+Starting thread <Thread(Thread-11, initial)>
+Starting thread <Thread(Thread-14, initial)>
+Starting thread <Thread(Thread-13, initial)>
+Starting thread <Thread(Thread-15, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-12, started)> starting - URL: http://srek.net78.net/ Creds: testsup30/spmprx
+Registration Thread Id <Thread(Thread-13, started)> starting - URL: http://stationcarinfo.com/ Creds: testsup30/spmprx
+Registration Thread Id <Thread(Thread-14, started)> starting - URL: http://starsz.com/ Creds: testsup30/spmprx
+Registration Thread Id <Thread(Thread-15, started)> starting - URL: http://www.stupidpackages.com/ Creds: testsup30/spmprx
+Registration process in http://srek.net78.net/ successful using username 'testsup30' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-12, started)> exiting...
+Registration process in http://www.stupidpackages.com/ successful using username 'testsup30' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-15, started)> exiting...
+Registration process in http://starsz.com/ successful using username 'testsup30' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-14, started)> exiting...
+Registration Thread Id <Thread(Thread-11, started)> starting - URL: http://specialbookmark.com/ Creds: testsup30/spmprx
+Registration process in http://specialbookmark.com/ successful using username 'testsup30' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-11, started)> exiting...
+Processing website (#19): http://www.spokesman.com/
+Number of threads: 1
+Creating thread <Thread(Thread-16, initial)>
+Processing website (#20): http://www.thecelebarchive.net/
+Number of threads: 2
+Creating thread <Thread(Thread-17, initial)>
+Successfully registered in 9 of the 20 websites listed
+Attempting to verify all emailed links...
+Registration process in http://stationcarinfo.com/ successful using username 'testsup30' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-13, started)> exiting...
+Inbox Page # 1: 45 emails
+Message URL: 1_74688_AId03rQAANMbTxs9jQSpUwGQy7c
+Followed link http://www.mongoliaonline.com/validation.php?code=14ef6a78753cb5fa2c13d7ea04204521&uid=testsup26
+Followed link http://www.mongoliaonline.com
+Message URL: 1_110881_AOF13rQAAYUETxyZTwbnKyc1YEY
+Followed link http://www.share-a-porn.com/validation.php?code=5d456038f2fc93ef8f652ffc9ddf17f0&uid=testsup28
+Followed link http://www.share-a-porn.com
+Message URL: 1_72678_AIZ03rQAAIeNTxsb4AKX91lQmGY
+Followed link http://nanosolar.pk/validation.php?code=1ac619bb6529692a1459dd50e23f2f75&uid=testsup30
+Followed link http://nanosolar.pk
+Message URL: 1_84388_AOF13rQAAKmjTxv5VQgf7hYel9Q
+Followed link http://www.thexyz.in/validation.php?code=8fda02c88e45157112caafbf85c1f2a2&uid=testsup28
+Followed link http://www.thexyz.in
+Message URL: 1_108047_AON13rQAANecTxxTxwgVu3cf1Q4
+Followed link http://www.ohter.com/login.php
+Message URL: 1_69776_AIp03rQAADaJTxsXfgU7HWehCXo
+Followed link http://votestories.info/validation.php?code=6fd0ab2dedfcfc63131e2f2a31326d7c&uid=testsup30
+Followed link http://votestories.info
+Message URL: 1_88304_AIZ03rQAAVS5TxwXhA2JhHFJn0I
+Followed link http://xn--72c3adabaak9fc6cb3a0c0dg7ce1s9c8cbfe.net/validation.php?code=3dfd6cbe5ff1b19a85ce8c54d91c1d66&uid=testsup23
+Followed link http://xn--72c3adabaak9fc6cb3a0c0dg7ce1s9c8cbfe.net
+Message URL: 1_76696_AIt03rQAAUy/Txs9mwjC2AkLQq0
+Message URL: 1_96918_AIR03rQAAXbrTxxBEAAhuz5RFhg
+Followed link http://www.freebookmarkmanager.com/validation.php?code=e4a006fdc2c0aa393bcda7fbe842da5a&uid=testsup30
+Followed link http://www.freebookmarkmanager.com
+Message URL: 1_82442_AIZ03rQAAVcPTxvoJwQ6vXOJ8C0
+Followed link http://www.specialbookmark.com/login.php
+Message URL: 1_99968_AIl03rQAAKYETxxFmwyMJGrUFlU
+Followed link http://www.healthtechlive.com/validation.php?code=2078768976e50c642a6f57e347f23a69&uid=testsup23
+Followed link http://www.healthtechlive.com
+Message URL: 1_79580_AOF13rQAARo/TxtD5wNcy1U2ZCM
+Followed link http://www.poezie.cz/validation.php?code=236d6c57d63c7b502e502979e63fbf7e&uid=testsup28
+Followed link http://www.poezie.cz
+Message URL: 1_109937_AIt03rQAALD/TxyZTgfVBVSkK6o
+Followed link http://www.share-a-porn.com/login.php
+Message URL: 1_80577_AOF13rQAAR2nTxtECQnj8Cu0Qho
+Message URL: 1_108955_AOV13rQAAKdwTxxTxwoT8RW32c0
+Followed link http://www.ohter.com/validation.php?code=d5dd61ec1dc3d68c64e9e23b3879fecf&uid=testsup28
+Message URL: 1_96325_AIZ03rQAARfwTxxBBAlsYyCM46g
+Followed link http://www.eschatonomy.com/validation.php?code=c9f12143a81d9de252bd96a4baef3c61&uid=testsup24
+Followed link http://www.eschatonomy.com
+Message URL: 1_86274_AIN03rQAAF69Txv5XwOFKyDCYxQ
+Followed link http://mmainfuzion.com
+Message URL: 1_70788_AN913rQAASITTxsYUA5m6i40mdY
+Followed link http://www.bloggernow.net/login.php
+Message URL: 1_73679_AIh03rQAAQ9+Txs9bg8e3QOLW5Q
+Followed link http://www.creditcrash.org/validation.php?code=3ac13dbe40334849ca5091636d017af1&uid=testsup30
+Followed link http://www.creditcrash.org
+Message URL: 1_105157_AIZ03rQAAVikTxxIPw2v6St23eE
+Followed link http://neosocial.info/validation.php?code=f476a3c6edb1303a21d7904d42439423&uid=testsup26
+Followed link http://neosocial.info
+Message URL: 1_102175_AN513rQAANhqTxxH7QuKJEzgzZg
+Followed link http://livesocial.info/validation.php?code=7bda2e0fa2f2269c5bbc99e75ff1f90e&uid=testsup24
+Followed link http://livesocial.info
+Message URL: 1_77677_AOV13rQAACvZTxs9nQQqi0LbG9I
+Message URL: 1_111897_AN913rQAAATpTxyZrQu96UoIkIM
+Followed link http://so-best.com/validation.php?code=2756794291b5eb8db5abda71c897d083&uid=testsup25
+Followed link http://so-best.com
+Message URL: 1_68760_AId03rQAAN6pTxsXfA0tlwzLjjg
+Followed link http://bookmarkesteem.com/validation.php?code=f2fa34b0b4ba685f96835bd2fce3d696&uid=testsup30
+Followed link http://bookmarkesteem.com
+Message URL: 1_89309_AIR03rQAACt2TxwXxg72biEKMB8
+Followed link http://www.thesparringrepublican.com/validation.php?code=e2352877c992c85961fedc02047ca99d&uid=testsup23
+Followed link http://www.thesparringrepublican.com
+Message URL: 1_85377_AIJ03rQAADBbTxv5VgPGtTG/5kA
+Followed link http://www.thexyz.in/login.php
+Message URL: 1_107079_AIN03rQAADjyTxxTrAkUGUV4vcw
+Followed link http://noticiaporno.com/login.php
+Message URL: 1_106154_AIt03rQAANLbTxxIQAG1CUQnSds
+Followed link http://neosocial.info/login.php
+Message URL: 1_97974_AOF13rQAAWuLTxxBEgTLT3HxuGM
+Followed link http://www.freehotlinksdirectory.com/login.php
+Message URL: 1_95410_AIt03rQAAJ0jTxxA1QCL3Q1Q1Cg
+Followed link http://diigme.com/login.php
+Message URL: 1_92364_AOZ13rQAANd9Txwt+ASwnDZbYII
+Followed link http://brightwerks.com/validation.php?code=3a8c038a5d53b56f5a7065765c6a8556&uid=testsup24
+Followed link http://brightwerks.com
+Message URL: 1_101152_AIt03rQAAMsXTxxHxAjrUkKn1S0
+Followed link http://linkbookmarks.info/validation.php?code=c97438c8ee42fbb4766ccee2eceaec3f&uid=testsup28
+Followed link http://linkbookmarks.info
+Message URL: 1_98922_AIR03rQAAW/+TxxBEgeg1AJKsl8
+Followed link http://www.freehotlinksdirectory.com/validation.php?code=6d323668c3dc261ba214978852230eb3&uid=testsup30
+Followed link http://www.freehotlinksdirectory.com
+Message URL: 1_103185_AIV03rQAALbuTxxH7wLXnAJ9QK8
+Followed link http://www.malayalams.com/validation.php?code=c5e168e05e9f7df9e7c3d55a96a045aa&uid=testsup24
+Followed link http://www.malayalams.com
+Message URL: 1_81537_AOV13rQAAEMyTxvoBQbpJmTtsVs
+Message URL: 1_75711_AOR13rQAAUTVTxs9lg3ZKjSNJvY
+Followed link http://trending.usefulinfonation.com/login.php
+Message URL: 1_90381_AIl03rQAAKkxTxwXyAeLEFfObTg
+Followed link http://www.thesparringrepublican.com/login.php
+Message URL: 1_87278_AIh03rQAAGBDTxwXhAMQJnFJn0I
+Followed link http://www.youthgroup.net/validation.php?code=9a38e01b64a4575186d77c88d0b0ea7a&uid=testsup28
+Followed link http://www.youthgroup.net
+Message URL: 1_91369_AN513rQAANBGTxwX3gmAaySM3jI
+Followed link http://ziovex.com/validation.php?code=ea63dfbe98ef11eff204adb7152df609&uid=testsup28
+Followed link http://ziovex.com
+Message URL: 1_83397_AIZ03rQAAChcTxvzYgaBck2mLTg
+Followed link http://telesmatic.com/module.php?module=registration_email&username=testsup20&conf=77b0eac85cd9184f91a635fde33f74216b36c7cbb0e95f524
+Message URL: 1_100563_AIZ03rQAAUCFTxxFqwW+yCKoAMI
+Followed link http://www.ideabrewery.org/validation.php?code=3106255b77cdd67012eb2e5eee11868d&uid=testsup28
+Followed link http://www.ideabrewery.org
+Message URL: 1_94403_AIZ03rQAARfwTxxA1AxfQzJndXg
+Followed link http://diigme.com/validation.php?code=db2986eb9167fe1a5b7a8ae2a8a9ad57&uid=testsup28
+Message URL: 1_78592_AIV03rQAAXVRTxs9qwSfYGkkc0s
+Followed link http://dotpoch.com/validation.php?code=7c567cf35d1498a0b3deb0a4177c8f6b&uid=testsup26
+Followed link http://dotpoch.com
+Message URL: 1_93374_AN913rQAAX9RTxxAwgjK0k5fpF8
+Followed link http://www.droidblast.com/validation.php?code=9096a160ab2871b88857c5e01b263466&uid=testsup28
+Followed link http://www.droidblast.com
+Inbox Page # 2: 45 emails
+Message URL: 1_74688_AId03rQAANMbTxs9jQSpUwGQy7c
+Followed link http://www.mongoliaonline.com/validation.php?code=14ef6a78753cb5fa2c13d7ea04204521&uid=testsup26
+Followed link http://www.mongoliaonline.com
+Message URL: 1_110881_AOF13rQAAYUETxyZTwbnKyc1YEY
+Followed link http://www.share-a-porn.com/validation.php?code=5d456038f2fc93ef8f652ffc9ddf17f0&uid=testsup28
+Followed link http://www.share-a-porn.com
+Message URL: 1_72678_AIZ03rQAAIeNTxsb4AKX91lQmGY
+Followed link http://nanosolar.pk/validation.php?code=1ac619bb6529692a1459dd50e23f2f75&uid=testsup30
+Followed link http://nanosolar.pk
+Message URL: 1_84388_AOF13rQAAKmjTxv5VQgf7hYel9Q
+Followed link http://www.thexyz.in/validation.php?code=8fda02c88e45157112caafbf85c1f2a2&uid=testsup28
+Followed link http://www.thexyz.in
+Message URL: 1_108047_AON13rQAANecTxxTxwgVu3cf1Q4
+Followed link http://www.ohter.com/login.php
+Message URL: 1_69776_AIp03rQAADaJTxsXfgU7HWehCXo
+Followed link http://votestories.info/validation.php?code=6fd0ab2dedfcfc63131e2f2a31326d7c&uid=testsup30
+Followed link http://votestories.info
+Message URL: 1_88304_AIZ03rQAAVS5TxwXhA2JhHFJn0I
+Followed link http://xn--72c3adabaak9fc6cb3a0c0dg7ce1s9c8cbfe.net/validation.php?code=3dfd6cbe5ff1b19a85ce8c54d91c1d66&uid=testsup23
+Followed link http://xn--72c3adabaak9fc6cb3a0c0dg7ce1s9c8cbfe.net
+Message URL: 1_76696_AIt03rQAAUy/Txs9mwjC2AkLQq0
+Message URL: 1_96918_AIR03rQAAXbrTxxBEAAhuz5RFhg
+Followed link http://www.freebookmarkmanager.com/validation.php?code=e4a006fdc2c0aa393bcda7fbe842da5a&uid=testsup30
+Followed link http://www.freebookmarkmanager.com
+Message URL: 1_82442_AIZ03rQAAVcPTxvoJwQ6vXOJ8C0
+Followed link http://www.specialbookmark.com/login.php
+Message URL: 1_99968_AIl03rQAAKYETxxFmwyMJGrUFlU
+Followed link http://www.healthtechlive.com/validation.php?code=2078768976e50c642a6f57e347f23a69&uid=testsup23
+Followed link http://www.healthtechlive.com
+Message URL: 1_79580_AOF13rQAARo/TxtD5wNcy1U2ZCM
+Followed link http://www.poezie.cz/validation.php?code=236d6c57d63c7b502e502979e63fbf7e&uid=testsup28
+Followed link http://www.poezie.cz
+Message URL: 1_109937_AIt03rQAALD/TxyZTgfVBVSkK6o
+Followed link http://www.share-a-porn.com/login.php
+Message URL: 1_80577_AOF13rQAAR2nTxtECQnj8Cu0Qho
+Message URL: 1_108955_AOV13rQAAKdwTxxTxwoT8RW32c0
+Followed link http://www.ohter.com/validation.php?code=d5dd61ec1dc3d68c64e9e23b3879fecf&uid=testsup28
+Followed link http://www.ohter.com
+Message URL: 1_96325_AIZ03rQAARfwTxxBBAlsYyCM46g
+Followed link http://www.eschatonomy.com/validation.php?code=c9f12143a81d9de252bd96a4baef3c61&uid=testsup24
+Followed link http://www.eschatonomy.com
+Message URL: 1_86274_AIN03rQAAF69Txv5XwOFKyDCYxQ
+Followed link http://mmainfuzion.com
+Message URL: 1_70788_AN913rQAASITTxsYUA5m6i40mdY
+Followed link http://www.bloggernow.net/login.php
+Message URL: 1_73679_AIh03rQAAQ9+Txs9bg8e3QOLW5Q
+Followed link http://www.creditcrash.org/validation.php?code=3ac13dbe40334849ca5091636d017af1&uid=testsup30
+Followed link http://www.creditcrash.org
+Message URL: 1_105157_AIZ03rQAAVikTxxIPw2v6St23eE
+Followed link http://neosocial.info/validation.php?code=f476a3c6edb1303a21d7904d42439423&uid=testsup26
+Followed link http://neosocial.info
+Message URL: 1_102175_AN513rQAANhqTxxH7QuKJEzgzZg
+Followed link http://livesocial.info/validation.php?code=7bda2e0fa2f2269c5bbc99e75ff1f90e&uid=testsup24
+Followed link http://livesocial.info
+Message URL: 1_77677_AOV13rQAACvZTxs9nQQqi0LbG9I
+Message URL: 1_111897_AN913rQAAATpTxyZrQu96UoIkIM
+Followed link http://so-best.com/validation.php?code=2756794291b5eb8db5abda71c897d083&uid=testsup25
+Followed link http://so-best.com
+Message URL: 1_68760_AId03rQAAN6pTxsXfA0tlwzLjjg
+Followed link http://bookmarkesteem.com/validation.php?code=f2fa34b0b4ba685f96835bd2fce3d696&uid=testsup30
+Followed link http://bookmarkesteem.com
+Message URL: 1_89309_AIR03rQAACt2TxwXxg72biEKMB8
+Followed link http://www.thesparringrepublican.com/validation.php?code=e2352877c992c85961fedc02047ca99d&uid=testsup23
+Followed link http://www.thesparringrepublican.com
+Message URL: 1_85377_AIJ03rQAADBbTxv5VgPGtTG/5kA
+Followed link http://www.thexyz.in/login.php
+Message URL: 1_107079_AIN03rQAADjyTxxTrAkUGUV4vcw
+Followed link http://noticiaporno.com/login.php
+Message URL: 1_106154_AIt03rQAANLbTxxIQAG1CUQnSds
+Followed link http://neosocial.info/login.php
+Message URL: 1_97974_AOF13rQAAWuLTxxBEgTLT3HxuGM
+Followed link http://www.freehotlinksdirectory.com/login.php
+Message URL: 1_95410_AIt03rQAAJ0jTxxA1QCL3Q1Q1Cg
+Followed link http://diigme.com/login.php
+Message URL: 1_92364_AOZ13rQAANd9Txwt+ASwnDZbYII
+Followed link http://brightwerks.com/validation.php?code=3a8c038a5d53b56f5a7065765c6a8556&uid=testsup24
+Followed link http://brightwerks.com
+Message URL: 1_101152_AIt03rQAAMsXTxxHxAjrUkKn1S0
+Followed link http://linkbookmarks.info/validation.php?code=c97438c8ee42fbb4766ccee2eceaec3f&uid=testsup28
+Followed link http://linkbookmarks.info
+Message URL: 1_98922_AIR03rQAAW/+TxxBEgeg1AJKsl8
+Followed link http://www.freehotlinksdirectory.com/validation.php?code=6d323668c3dc261ba214978852230eb3&uid=testsup30
+Followed link http://www.freehotlinksdirectory.com
+Message URL: 1_103185_AIV03rQAALbuTxxH7wLXnAJ9QK8
+Followed link http://www.malayalams.com/validation.php?code=c5e168e05e9f7df9e7c3d55a96a045aa&uid=testsup24
+Followed link http://www.malayalams.com
+Message URL: 1_81537_AOV13rQAAEMyTxvoBQbpJmTtsVs
+Message URL: 1_75711_AOR13rQAAUTVTxs9lg3ZKjSNJvY
+Followed link http://trending.usefulinfonation.com/login.php
+Message URL: 1_90381_AIl03rQAAKkxTxwXyAeLEFfObTg
+Followed link http://www.thesparringrepublican.com/login.php
+Message URL: 1_87278_AIh03rQAAGBDTxwXhAMQJnFJn0I
+Followed link http://www.youthgroup.net/validation.php?code=9a38e01b64a4575186d77c88d0b0ea7a&uid=testsup28
+Followed link http://www.youthgroup.net
+Message URL: 1_91369_AN513rQAANBGTxwX3gmAaySM3jI
+Followed link http://ziovex.com/validation.php?code=ea63dfbe98ef11eff204adb7152df609&uid=testsup28
+Followed link http://ziovex.com
+Message URL: 1_83397_AIZ03rQAAChcTxvzYgaBck2mLTg
+Followed link http://telesmatic.com/module.php?module=registration_email&username=testsup20&conf=77b0eac85cd9184f91a635fde33f74216b36c7cbb0e95f524
+Message URL: 1_100563_AIZ03rQAAUCFTxxFqwW+yCKoAMI
+Followed link http://www.ideabrewery.org/validation.php?code=3106255b77cdd67012eb2e5eee11868d&uid=testsup28
+Followed link http://www.ideabrewery.org
+Message URL: 1_94403_AIZ03rQAARfwTxxA1AxfQzJndXg
+Followed link http://diigme.com/validation.php?code=db2986eb9167fe1a5b7a8ae2a8a9ad57&uid=testsup28
+Message URL: 1_78592_AIV03rQAAXVRTxs9qwSfYGkkc0s
+Followed link http://dotpoch.com/validation.php?code=7c567cf35d1498a0b3deb0a4177c8f6b&uid=testsup26
+Followed link http://dotpoch.com
+Message URL: 1_93374_AN913rQAAX9RTxxAwgjK0k5fpF8
+Followed link http://www.droidblast.com/validation.php?code=9096a160ab2871b88857c5e01b263466&uid=testsup28
+Followed link http://www.droidblast.com
+Number of sites to post to: 20
+Number of threads: 0
+Number of threads: 1
+Number of threads: 2
+Number of threads: 3
+Number of threads: 4
+Number of threads: 5
+Starting thread <Thread(Thread-19, started)>
+Starting thread <Thread(Thread-18, started)>
+Starting thread <Thread(Thread-21, started)>
+Starting thread <Thread(Thread-20, started)>
+Starting thread <Thread(Thread-23, started)>
+Starting thread <Thread(Thread-22, started)>
+Attempting to post to http://www.socialnetworksites.ca/ using username 'testsup24' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-20, started)> starting - URL: http://www.socialnetworksites.ca/
+Attempting to post to http://www.socialnewscommunity.com/ using username 'testsup25' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-22, started)> starting - URL: http://www.socialnewscommunity.com/
+Attempting to post to http://socialnewsbookmark.com/ using username 'testsup25' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-21, started)> starting - URL: http://socialnewsbookmark.com/
+Attempting to post to http://specialbookmark.com/ using username 'testsup30' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-23, started)> starting - URL: http://specialbookmark.com/
+Failed to post story to http://specialbookmark.com/ - <Thread(Thread-23, started)> exiting...
+Failed to post story to http://www.socialnetworksites.ca/ - <Thread(Thread-20, started)> exiting...
+Attempting to post to http://secure.scoop.co.nz/ using username 'testsup28' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-19, started)> starting - URL: http://secure.scoop.co.nz/
+Failed to post story to http://socialnewsbookmark.com/ - <Thread(Thread-21, started)> exiting...
+Failed to post story to http://secure.scoop.co.nz/ - <Thread(Thread-19, started)> exiting...
+Failed to post story to http://www.socialnewscommunity.com/ - <Thread(Thread-22, started)> exiting...
+Attempting to post to http://scoopit.co.nz/ using username 'testsup28' and password 'spmprx'
+Story Post Thread Id <Thread(Thread-18, started)> starting - URL: http://scoopit.co.nz/
+Failed to post story to http://scoopit.co.nz/ - <Thread(Thread-18, started)> exiting...
+Number of threads: 0
+Number of threads: 1
+Number of threads: 2
+Successfully posted to 0 websites

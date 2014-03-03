@@ -1,0 +1,134 @@
+Starting application 'PliggAutoPostBot' - Sun, October 9, 2012Starting google search for keywords '' in a background thread - <Thread(Thread-1, initial)>... 
+Processing website (#1): http://www.dealsrock.com/
+Number of threads: 0
+Creating thread <Thread(Thread-2, initial)>
+Processing website (#2): http://www.topbookmarksonline.com/
+Number of threads: 1
+Creating thread <Thread(Thread-3, initial)>
+Processing website (#3): http://www.usdigg.com/
+Number of threads: 2
+Creating thread <Thread(Thread-4, initial)>
+Processing website (#4): http://www.crowd.it/
+Number of threads: 3
+Creating thread <Thread(Thread-5, initial)>
+Processing website (#5): http://www.keepyup.net/
+Number of threads: 4
+Creating thread <Thread(Thread-6, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#6): http://www.hotsamachar.com/
+Starting thread <Thread(Thread-3, initial)>
+Starting google search with search string ''...
+Starting thread <Thread(Thread-2, initial)>
+Starting thread <Thread(Thread-5, initial)>
+Starting thread <Thread(Thread-4, initial)>
+Starting thread <Thread(Thread-6, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-3, started -1249465488)> starting - URL: http://www.topbookmarksonline.com/ Creds: someZombies222/spmprx
+The google search did not return any results.
+Registration Thread Id <Thread(Thread-5, started -1267729552)> starting - URL: http://www.crowd.it/ Creds: someZombies222/spmprx
+Registration Failed. Thread Id <Thread(Thread-3, started -1249465488)> exiting... 
+Registration Thread Id <Thread(Thread-4, started -1276118160)> starting - URL: http://www.usdigg.com/ Creds: someZombies222/spmprx
+Registration Thread Id <Thread(Thread-6, started -1284506768)> starting - URL: http://www.keepyup.net/ Creds: someZombies222/spmprx
+Registration Failed. Thread Id <Thread(Thread-5, started -1267729552)> exiting... 
+Registration Thread Id <Thread(Thread-2, started -1259340944)> starting - URL: http://www.dealsrock.com/ Creds: someZombies222/spmprx
+Registration process in http://www.keepyup.net/ successful using username 'someZombies222' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-6, started -1284506768)> exiting...
+Processing website (#7): http://www.weebly.com/
+Number of threads: 2
+Creating thread <Thread(Thread-7, initial)>
+Processing website (#8): http://www.smslucu.web.id/
+Number of threads: 3
+Creating thread <Thread(Thread-8, initial)>
+Processing website (#9): http://www.lawdigg.com/
+Number of threads: 4
+Creating thread <Thread(Thread-9, initial)>
+Number of concurrent threads at this instant: 5
+Captcha Text for http://www.dealsrock.com/ is f928zz
+Registration process in http://www.dealsrock.com/ successful using username 'someZombies222' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-2, started -1259340944)> exiting...
+Registration process in http://www.usdigg.com/ successful using username 'someZombies222' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-4, started -1276118160)> exiting...
+Processing website (#10): http://www.mygiftguide.co.uk/
+Number of threads: 3
+Creating thread <Thread(Thread-10, initial)>
+Processing website (#11): http://swingadviser.com/
+Number of threads: 4
+Creating thread <Thread(Thread-11, initial)>
+Number of concurrent threads at this instant: 5
+Processing website (#12): http://homefinanceplanet.com/
+Starting thread <Thread(Thread-7, initial)>
+Starting thread <Thread(Thread-9, initial)>
+Starting thread <Thread(Thread-8, initial)>
+Starting thread <Thread(Thread-11, initial)>
+Starting thread <Thread(Thread-10, initial)>
+Number of concurrent threads at this instant: 5
+Registration Thread Id <Thread(Thread-7, started -1259340944)> starting - URL: http://www.weebly.com/ Creds: someZombies222/spmprx
+Registration Thread Id <Thread(Thread-8, started -1284506768)> starting - URL: http://www.smslucu.web.id/ Creds: someZombies222/spmprx
+Registration Failed. Thread Id <Thread(Thread-7, started -1259340944)> exiting... 
+Registration Thread Id <Thread(Thread-10, started -1249465488)> starting - URL: http://www.mygiftguide.co.uk/ Creds: someZombies222/spmprx
+Registration Thread Id <Thread(Thread-9, started -1276118160)> starting - URL: http://www.lawdigg.com/ Creds: someZombies222/spmprx
+Registration Failed. Thread Id <Thread(Thread-10, started -1249465488)> exiting... 
+Registration Failed. Thread Id <Thread(Thread-8, started -1284506768)> exiting... 
+Registration Thread Id <Thread(Thread-11, started -1267729552)> starting - URL: http://swingadviser.com/ Creds: someZombies222/spmprx
+Registration Failed. Thread Id <Thread(Thread-11, started -1267729552)> exiting... 
+Processing website (#13): http://www.addalo.it/
+Number of threads: 1
+Creating thread <Thread(Thread-12, initial)>
+Processing website (#14): http://www.edutagger.com/
+Number of threads: 2
+Creating thread <Thread(Thread-13, initial)>
+Processing website (#15): http://www.bookvote.net/
+Number of threads: 3
+Creating thread <Thread(Thread-14, initial)>
+Processing website (#16): http://www.shwedream.com/
+Number of threads: 4
+Creating thread <Thread(Thread-15, initial)>
+Number of concurrent threads at this instant: 5
+Registration process in http://www.lawdigg.com/ successful using username 'someZombies222' and password 'spmprx'. Link verification in email will happen in the next phase once all registrations have been handled.
+Registration Thread Id <Thread(Thread-9, started -1276118160)> exiting...
+Processing website (#17): http://www.hdhound.com/
+Number of threads: 4
+Creating thread <Thread(Thread-16, initial)>
+Number of concurrent threads at this instant: 5
+Successfully registered in 4 of the 17 websites listed
+Attempting to verify all emailed links...
+Inbox Page # 1: 45 emails
+Message URL: 2_0_0_1_193_AB+pCmoAAXIQUClZ6ACHhyN/qv8
+Message URL: 2_0_0_1_25389_AEd03rQAALhUTwLh0gOTZFpMlD8
+Message URL: 2_0_0_1_59550_AB2pCmoAADjmUDhhjwC8iA32H00
+Message URL: 2_0_0_1_28373_AER03rQAAWvyTwLhKgSt8E3BTqU
+Message URL: 2_0_0_1_1111_AB+pCmoAADwgUCV4jQV3J1ImLA8
+Message URL: 2_0_0_1_29122_AEN03rQAARX8TwLhBQZLUw3zS9o
+Message URL: 2_0_0_1_12476_AEh03rQAAQ12TwrUFwRxtgYEHlQ
+Message URL: 2_0_0_1_24401_AEB03rQAAXNhTwLh6w6C4DipHyw
+Message URL: 2_0_0_1_56921_AB6pCmoAANKyUC5oqgsuD30e5Pg
+Message URL: 2_0_0_1_16104_AEJ03rQAAAj8TwTjNw1RZQ1RL8Y
+Message URL: 2_0_0_1_13382_AEh03rQAAM4WTwYGSAASTH5ekzg
+Message URL: 2_0_0_1_14290_AER03rQAATuNTwUaBQY2H1VhjCs
+Message URL: 2_0_0_1_29855_AD903rQAAR67TwLg7wboNkkX9Qo
+Message URL: 2_0_0_1_15198_AD903rQAAQvETwTtcghEkxJIlzc
+Message URL: 2_0_0_1_2860_AB6pCmoAARvwUBuiMAm2TTdW21k
+Message URL: 2_0_0_1_17920_AEN03rQAAYLbTwTSCgdJyBT7i3Q
+Message URL: 2_0_0_1_32546_AEd03rQAAVS0TwLdawXRL0E6uxs
+Message URL: 2_0_0_1_17010_AER03rQAANp/TwTbigIkJAp41gY
+Message URL: 2_0_0_1_8570_AEB03rQAAMA9TyA5cww3rWo3th4
+Followed link http://9orbs.com/validation.php?code=c1a6c9928820208f016bd643c6aec2be&uid=ssss
+Message URL: 2_0_0_1_19751_AEB03rQAAVyvTwTNlAuLaVTNNlQ
+Message URL: 2_0_0_1_57810_AB2pCmoAAFXoUDAKVQSi7jjeJCM
+Message URL: 2_0_0_1_20656_AEh03rQAANCpTwNm9gzgqDylH/c
+Message URL: 2_0_0_1_4190_ABypCmoAAC4kUARp1g7ZQlwbQAA
+Message URL: 2_0_0_1_63524_ABypCmoAAHfTUEWtkAE3F3D7cGw
+Message URL: 2_0_0_1_26138_AEh03rQAAJ3aTwLhewsPeFxE7eU
+Message URL: 2_0_0_1_56037_AB+pCmoAAAsAUC1xzQ80MWpWX/c
+Message URL: 2_0_0_1_18826_AEZ03rQAAFOZTwTRlwO6EhAYHBU
+Message URL: 2_0_0_1_21701_AEF03rQAABnJTwNlUwyvw0K89/s
+Message URL: 2_0_0_1_1975_AB2pCmoAATOqUCA6+AyrmSGErxc
+Message URL: 2_0_0_1_27622_AEZ03rQAADhjTwLhRgZ+lgP6ti0
+Message URL: 2_0_0_1_10662_AEd03rQAAKtBTw9/rA0Nj1/GjZk
+Message URL: 2_0_0_1_62641_AB6pCmoAARLuUEBYfQEkR0xWHOs
+Message URL: 2_0_0_1_9752_AER03rQAAJBsTw9/6Qo/5BiRh1Q
+Message URL: 2_0_0_1_31505_AD903rQAACbaTwLeZAyhgD6uyOY
+Message URL: 2_0_0_1_26873_AEV03rQAARCwTwLhYAOHzgJ+x+o
+Message URL: 2_0_0_1_60731_AB2pCmoAAD7rUD3ALQpYlDmzjPY
+Message URL: 2_0_0_1_22536_AEZ03rQAAEEdTwLiRA1zvDNnrmM
+Message URL: 2_0_0_1_64

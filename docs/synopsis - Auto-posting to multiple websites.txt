@@ -1,0 +1,51 @@
+Auto-posting to multiple blog websites having a similar content management system interface:
+
+General Requirement:
+
+* A system that is capable of posting a story/article (that may be generated from a given spinable text) to multiple websites that have similar interface to a content management system in an efficient way. 
+* The list of such websites may be provided partially by the user while the system should be capable enough to dig out such websites on the internet by itself. 
+* The system should also be able to make comments or cast votes on previously posted articles/stories on the websites. 
+* Since posting articles to a website often requires a user to register himself/herself on the website, the system should be capable enough handle the registration process as a normal human user.
+
+Technical Details Based on the above mentioned requirements:
+
+1. Registration on a website: Registration on a website often requires handling a "Captcha". For an application to handle a captcha, it should either use an OCR (Optical Character Reader) application internally or it should use one of the captcha bypassing services (like "DeathByCaptcha" or "Decaptcher"). OCR applications are effective in a very limited way since presence of noise in a captcha image causes any OCR application to fail to interpret the characters in it. Hence, to be able to guess the characters in a captcha image in a reliable way, one has to make use of one of the available captcha bypassing services. This application uses the DeathByCaptcha service available from "www.deathbycaptcha.com". DeathByCaptcha exposes an API in python (as well as in many other languages), and this application uses it to handle the captcha challenges it faces.
+
+2. In order to generate multiple stories with the same theme but different literal structures, an application has to use spinable content. (Example of spinable content: see file named sampleContent.txt). This application handles content generation from a given spinable content by defining methods to parse and store multiple chunks of text. 
+
+3. In order to be able to make comments or cast votes on previously posted articles, an application has to have a way to store login credentials used during posting the article and the title or any other token to identify the article. This application uses a mysql database in the backend to handle these types of needs.
+
+4. To dig out a list of websites having identical content management system interface, an application has to make use of a search engine. This application uses the Google search engine to search for websites based on PLIGG content management system. It does this in the background (as a background thread) so that other activities are not hampered during the course of the search. Since Google blocks IP addresses from which bots operate, the application uses a list of web-proxies through which it interacts with google.
+
+5. A lot of websites require a newly registered user to verify the email Id they provide during registration. This requires the user to login to the specific email account used during registration, go to the inbox folder and click on a link in the email that has been sent from the website immediately after registration. This application is capable of handling this process and can login into any yahoo or gmail account automatically (if provided with the credentials) and click the link in the relevant email.
+
+6. To make the entire process efficient, the application uses multiple threads to handle the processes. The number of threads to use is configurable by the user in  a configuration file. 
+
+7. To make the application easy to use, the application provides a GUI. The GUI is implemented using Tkinter (Python-Tk) module.
+
+
+
+====================================================================================================================================================
+
+Generic Data Mining Tool to Collect Data and Store it in a Database.
+
+General Requirement:
+
+* A system capable of extracting data in various formats (PDF, CSV, XML, XLS, etc) and storing it in a database with the least amount of human intervention.
+
+* The system should be capable of identifying datatypes in an input dataset and should be able to create a table with appropriate fields to store the data in the database.
+
+* The system should be able to identify datasets that have identical attributes with datasets that have been previously processed. For example, if it receives a dataset with the same fieldnames and corresponding datatypes as in an existing dataset in the database, it should not create a new table, but it should update the existing table with the data in the new dataset.
+
+* The system should be able to handle multiple database systems transparently. The user should be able to change the DBMS without making any modification to the DB handler code.
+
+* The user should be able to modify certain functionalities by passing various flag values. For example, the user should be able to pass a set of fieldnames to use while running it, the application should handle special characters in fieldnames so that they are not rejected by the DBMS package used underneath, and the application should identify the date of creation of the dataset from the clues provided by the user.
+
+
+
+Technical Details based on the above mentioned requirements:
+
+1. In order to handle multiple databases, the application handles the connection and operational code to various DBMS packages in try/except blocks. It checks to see the available database drivers (in a specific location) and makes connection attempts using them to find the accessible database system.
+
+
+The rest of the details would be implementation related (like, the application handles PDF docs by converting them to XML first and then converting the XML to CSV). So I am not putting them here right now, as they would be relevant only if and when you want to talk about implementation. 

@@ -1,0 +1,56 @@
+Hi  Masaji,
+
+Once again m bothering you becoz of the project , n sorry to say but will continue the same till my project ends :p
+
+The project details u maild me were sufficient for the synopsis,but I just want some more details, mentioned below:
+
+1.Hardware and Software requirements of the project
+2.References 
+3.What is the difference between this project and many other tools already available in market like BLOG IT , WORDEXPRESS, SCRIBEFIRE and many other..?
+
+
+
+Lastly,I would like you to suggest some good names for the project so that the name wud say it all about the project..:)
+
+and u told me that this project can be used for multi level marketing..I searched for it..but wasn't able to relate things with this project,so can u plz send me the links of some related webpages. 
+
+Thank You in advance.
+
+
+
+Hardware and Software requirements of the project:
+===================================================
+The application would be able to run on both windows and linux systems. It has been tested on windows XP and windows 7. It is also expected to run on Windows Vista. Among the various linux flavours available, I have tested it on Ubuntu (Intrepid), Redhat, Debian (Lenny), and OpenSuse. It should also run on any of the fedora series without any changes.
+
+The application should be able to run on any system that support threads. Thus, this application is ideally suited for running on a windows system.
+
+The following softwares/libraries would also be necessary for running this application:
+1. Python 2.x (x >= 5) [Python3.x series is NOT supported]
+2. Tk and its python extension (Tkinter)
+3. Core python modules: urllib, urllib2, threading, sys, re, time, os, httplib, urlparse, StringIO, mimetypes, mimetools, ConfigParser, csv, random, urlparse, gzip
+4. External python modules: BeautifulSoup, Queue,  PIL, MySQLdb, Tkinter, simplejson, deathbycaptcha (optional), pytesser(optional)
+5. Mysql database server (ver 5.0.xy) [Community edition would be enough)
+6. Mysql library headers for use with python MySQLdb.
+7. Tesseract OCR (optional)
+
+References:
+===========
+Python.org, 
+
+
+What is the difference between this project and many other tools already available in market like BLOG IT , WORDEXPRESS, SCRIBEFIRE and many other..?
+======================================================================================================================================================
+The tools available in market are general purpose and hence they need to be configured to be able to use it. Often, configuring such a tool is a complex process and  needs an in-depth understanding of how the tool works. This poses a barrier for people who do not have a technical background. Marketing is a field that uses technology, but does not invent it, and  hence an off-the-shelve tool does not always satisfy the needs of the common marketing professional. Moreover, tools like ScribeFire are interactive and hence need human intervention. Our tool works in the background and doesn't need human intervention once it has been started. Naturally, it is much faster than the likes of ScribeFire.
+
+The aim of this tool is to automate the process of registration and posting stories/articles to websites that are based specifically on PLIGG content management system (CMS). Since the aim is very specific to a particular CMS, it does not need any complex configuration. It lacks the flexibility provided by various off-the-shelve applications with similar intent, but in exchange, it provides the user with a one click method to achieve the ends. Thus, it is usable by anyone who has access to a windows or a linux system equipped with an internet connection. 
+
+Usage in Multi-Level Marketing:
+===============================
+MLM professionals use social networks to advertise their products/services and increase their customer base. In order to be able to advertise their products/services, they need to post the advertisement contents on such sites. Most social networking sites provide a facility wherein an user is able to 
+post an article or a story (advertising some service or product or concept). Subscribers who like the advertised entity can cast votes on the website in favour of the advertised entity. Thus the popularity of the advertised entity is quantified and the manufacturer or the service provider of the advertised entity can showcase this to other clients who might be interested. This increases the number of visitors to the website of the manufacturer/service provider, and that in turn increases the the "clicks count" which is of interest to advertisers. 
+
+However, since the number of social networking websites has increased drastically in the recent times, it is almost impossible for a human agent to register and post an article on them manually. This is where our application comes to the rescue. It enables the user to feed the list of URLs of the social networking websites (only PLIGG based), the advertisement content, and some other necessary details (like username and password to register and login) to the application, and then the application takes care of the tedious process of registering and posting the ad content on all the sites pointed to by the URLs in the list in an efficient manner. 
+
+
+[Actually, there is another way in which MLM makes use of the social networking websites, but I couldn't get it just now... I am trying to get hold of the person who gave me this project since he is quite knowledgeable on the topic. But I am not getting him on the phone since Saturday.... We have a scheduled meeting every wednesday, and I am looking forward to it.]
+

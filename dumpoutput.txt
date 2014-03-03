@@ -1,0 +1,298 @@
+5000 stories in queue.
+Attempting to register on all links...
+Could not access the website content of http://store.ferrari.com/
+Starting registration...
+Starting registration...
+Could not find registration page URL. Trying with the value http://the-hot-deal.com/register
+Registration URL:  http://the-hot-deal.com/register.php
+Starting registration...
+Could not find registration page URL. Trying with the value http://thatsblog.com/register
+Registration URL:  http://thatsblog.com/register.php
+Starting registration...
+Starting registration...
+Warning: Could not find the registration form in http://the-hot-deal.com/register.php
+Could not find registration page URL. Trying with the value http://sevensmarketing.com/register
+Registration URL:  http://sevensmarketing.com/register.php
+Registration URL:  http://telesmatic.com/register
+Registration Form Action URL:  http://telesmatic.com/register
+Image URL for http://telesmatic.com/: http://telesmatic.com/modules/captcha/captchas/WhiteHat/CaptchaSecurityImages.php
+Could not fetch registration/sign-up page. Please check your internet connectivity before trying again.
+Registration Form Action URL:  http://sevensmarketing.com/register.php
+Image URL for http://sevensmarketing.com/: http://sevensmarketing.com/modules/captcha/captchas/WhiteHat/CaptchaSecurityImages.php
+Captcha String for http://sevensmarketing.com/: 68nr87
+POST Data for http://sevensmarketing.com/: reg_username=testsup464&reg_email=you_know_who_13%40rocketmail.com&reg_password2=spmprx&submit=Create+user&token=&security_code=68nr87&regfrom=full&reg_password=spmprx
+Registration failed: The captcha string was incorrect.
+Captcha String for http://telesmatic.com/: 7jp93v
+POST Data for http://telesmatic.com/: reg_username=testsup464&reg_email=you_know_who_13%40rocketmail.com&reg_password2=spmprx&submit=Create+user&regfrom=full&token=&security_code=7jp93v&agree=agree&reg_password=spmprx
+Registration failed: The emailID is already registered for another user.
+Starting registration...
+Starting registration...
+Starting registration...
+Registration URL:  http://workclicks.com/register.php
+Registration URL:  http://womenselfesteem.proboards.com/index.cgi?action=register
+Registration URL:  http://www.21funnycommercials.com/register
+Starting registration...
+Registration URL:  http://www.article-elf.com/register/
+Registration Form Action URL:  http://www.article-elf.com/register/
+Registration Form Action URL:  http://www.21funnycommercials.com/register
+Iframe URL for http://www.21funnycommercials.com/: http://api.recaptcha.net/image?c=03AHJ_VuuYiMzVqqzybhCfpnFQeidsiiojcGSVHCTTwefkaqf6aqtR7w4l8AE-QPbJkU6k2aorV6mJ2U4-CLJ_1lzqcOUfJxQ84wDxwaLtCh6p3-GcOeV02B90uaScrsaMkTsk56162_bMTjZ_yT3aXpdgv12xNH6_-w
+Starting registration...
+Iframe URL for http://www.article-elf.com/: http://api.recaptcha.net/image?c=03AHJ_VusH44cKPStqSyh7L1-4y8_uDQ6f8iEA-Dx8ggVShb7m5h2IqwWYj3LhoehvMGXyqMSO2mK35z23FB3t2vstRCN61O9uP4u6P9InfEin9IHV_Fa8UAvQ5_5NlAYBKNGE-w5WT-WV96b5AasNh5oPoEj3MRagvQ
+Registration Form Action URL:  http://womenselfesteem.proboards.com/index.cgi?action=register2
+Registration URL:  http://www.agoodjoke.com/register.php
+Registration Form Action URL:  http://workclicks.com/register.php
+Image URL for http://workclicks.com/: http://workclicks.com/ts_image.php?ts_random=79967426
+Iframe URL for http://womenselfesteem.proboards.com/: http://api.recaptcha.net//papi/media?c=2@tm8rHy9BcWaDPPL9OhYR6RzYps9qPpjU@Syn1vs2oAGIENU8bgrS33X9APTC4lJjoMq-gHdwX8DZbWgAAjgQLSZ1da-Z1OhJcIM1u2h0I4Qv3NPhNaw1ptL0BQNyK6EKROqtO-6XbHMefACmS36niGNjYm-wnyasr0P8buGQnh8vBNPfQ7mUOy8AJHQabTVn.PO2HolKSh4hWDIPMBuiOkD3hsu7pyEu8JKBPQqVzNj6KX7aztNv5hKiV9YDw6rxfjHb0U1Nzr0mRg40wRJyszS-l6z2uta6067xvpXPitZsmSEVcgrS6gA
+Could not retrieve captcha text from deathbycaptcha service. Please check your credentials or balance.Connection lost or timed out during API request
+Captcha String for http://www.article-elf.com/: None
+POST Data for http://www.article-elf.com/: reg_username=testsup42&reg_email=you_know_who_13%40rocketmail.com&recaptcha_response_field=manual_challenge&reg_password2=spmprx&submit=Create+user&recaptcha_challenge_field=03AHJ_VusH44cKPStqSyh7L1-4y8_uDQ6f8iEA-Dx8ggVShb7m5h2IqwWYj3LhoehvMGXyqMSO2mK35z23FB3t2vstRCN61O9uP4u6P9InfEin9IHV_Fa8UAvQ5_5NlAYBKNGE-w5WT-WV96b5AasNh5oPoEj3MRagvQ&regfrom=full&reg_password=spmprx
+Could not retrieve captcha text from deathbycaptcha service. Please check your credentials or balance.HTTP Error 404: Not Found
+Captcha String for http://womenselfesteem.proboards.com/: None
+POST Data for http://womenselfesteem.proboards.com/: username=testsup42&adcopy_response=manual_challenge&password2=spmprx&password=spmprx&usig=&uid=&recaptcha_challenge_field=2%40tm8rHy9BcWaDPPL9OhYR6RzYps9qPpjU%40Syn1vs2oAGIENU8bgrS33X9APTC4lJjoMq-gHdwX8DZbWgAAjgQLSZ1da-Z1OhJcIM1u2h0I4Qv3NPhNaw1ptL0BQNyK6EKROqtO-6XbHMefACmS36niGNjYm-wnyasr0P8buGQnh8vBNPfQ7mUOy8AJHQabTVn.PO2HolKSh4hWDIPMBuiOkD3hsu7pyEu8JKBPQqVzNj6KX7aztNv5hKiV9YDw6rxfjHb0U1Nzr0mRg40wRJyszS-l6z2uta6067xvpXPitZsmSEVcgrS6gA&utime=&random=v9tb3w6qgj&hideemail=you_know_who_13%40rocketmail.com&showage=1&email2=you_know_who_13%40rocketmail.com&email=you_know_who_13%40rocketmail.com&hidegender=0
+Registration Form Action URL:  http://www.agoodjoke.com/register.php
+Image URL for http://www.agoodjoke.com/: http://www.agoodjoke.com/ts_image.php?ts_random=67296888
+Registration failed: The captcha string was incorrect.
+The registration process may or may not have been successful.
+Captcha String for http://www.21funnycommercials.com/: purpose thescp
+POST Data for http://www.21funnycommercials.com/: reg_username=testsup42&reg_email=you_know_who_13%40rocketmail.com&recaptcha_response_field=purpose+thescp&reg_password2=spmprx&submit=Create+user&recaptcha_challenge_field=03AHJ_VuuYiMzVqqzybhCfpnFQeidsiiojcGSVHCTTwefkaqf6aqtR7w4l8AE-QPbJkU6k2aorV6mJ2U4-CLJ_1lzqcOUfJxQ84wDxwaLtCh6p3-GcOeV02B90uaScrsaMkTsk56162_bMTjZ_yT3aXpdgv12xNH6_-w&regfrom=full&reg_password=spmprx
+The website registration process is successful. Email verification will happen once all websites have been registered with.
+Captcha String for http://workclicks.com/: 790295
+POST Data for http://workclicks.com/: randkey=969307&reg_email=you_know_who_13%40rocketmail.com&new_occ_group=&reg_password2=spmprx&reg_new_occp=&reghash=29aa8258658e96459eb34200627408809a128553aeb2ee13a&regfrom=&new_reg_industry=&reg_bookmrk=http%3A%2F%2F&reg_fname=&ts_random=79967426&ts_code=790295&id=c_1&reg_password=spmprx&reg_lname=
+The registration process may or may not have been successful.
+Captcha String for http://www.agoodjoke.com/: 069038
+POST Data for http://www.agoodjoke.com/: reg_username=testsup42&reg_email=you_know_who_13%40rocketmail.com&reg_password2=spmprx&reghash=15bf72c6d6606a04269aaba884d3284615552c11bf1e88330&submit=Create+user&ts_random=67296888&ts_code=069038&regfrom=&reg_password=spmprx
+Registration failed: The emailID is already registered for another user.
+Starting registration...
+Could not find registration page URL. Trying with the value http://www.interimceo.com/register
+Registration URL:  http://www.interimceo.com/register.php
+Starting registration...
+Starting registration...
+Registration URL:  http://www.funny.co.uk/login.php?return=/
+Warning: Could not find the registration form in http://www.interimceo.com/register.php
+Registration URL:  http://www.getyourgeekon.info/register.php
+Warning: Could not find the registration form in http://www.funny.co.uk/login.php?return=/
+Registration Form Action URL:  http://www.getyourgeekon.info/register.php
+Image URL for http://www.getyourgeekon.info/: http://www.getyourgeekon.info/modules/captcha/captchas/WhiteHat/CaptchaSecurityImages.php
+Starting registration...
+Starting registration...
+Could not find registration page URL. Trying with the value http://www.junketts.com/register
+Registration URL:  http://www.junketts.com/register.php
+Could not find registration page URL. Trying with the value http://www.investingtopix.com/register
+Registration URL:  http://www.investingtopix.com/register.php
+Could not fetch registration/sign-up page. Please check your internet connectivity before trying again.
+Registration Form Action URL:  http://www.investingtopix.com/register
+Image URL for http://www.investingtopix.com/: http://www.investingtopix.com/modules/captcha/captchas/WhiteHat/CaptchaSecurityImages.php
+Captcha String for http://www.getyourgeekon.info/: r3hjth
+POST Data for http://www.getyourgeekon.info/: reg_username=testsup423&reg_email=you_know_who_13%40rocketmail.com&reg_password2=spmprx&submit=Create+user&token=&security_code=r3hjth&regfrom=full&reg_password=spmprx
+Registration failed: The captcha string was incorrect.
+Attempting to verify all emailed links...
+Successfully logged into the account for you_know_who_13@rocketmail.com
+Trying to follow email link: http://vote.uponinter.net/validation.php?code=3d1a3e31b9a0e059686e2538995794ef&uid=testsup30
+Trying to follow email link: http://vote.uponinter.net
+Trying to follow email link: http://yoogr.com/login.php
+Trying to follow email link: http://www.share-a-porn.com/validation.php?code=5d456038f2fc93ef8f652ffc9ddf17f0&uid=testsup28
+Trying to follow email link: http://www.share-a-porn.com
+Trying to follow email link: http://www.thexyz.in/validation.php?code=8fda02c88e45157112caafbf85c1f2a2&uid=testsup28
+Trying to follow email link: http://www.thexyz.in
+Trying to follow email link: http://www.ohter.com/login.php
+Trying to follow email link: http://afriweb.org/login.php
+Trying to follow email link: http://xn--72c3adabaak9fc6cb3a0c0dg7ce1s9c8cbfe.net/validation.php?code=3dfd6cbe5ff1b19a85ce8c54d91c1d66&uid=testsup23
+Trying to follow email link: http://xn--72c3adabaak9fc6cb3a0c0dg7ce1s9c8cbfe.net
+Trying to follow email link: http://www.share-a-porn.com/login.php
+Trying to follow email link: http://yoogr.com/validation.php?code=033f8f56a3f9cea3a75830183374aebf&uid=testsup423
+Trying to follow email link: http://yoogr.com
+Trying to follow email link: http://www.specialbookmark.com/login.php
+Captcha String for http://www.investingtopix.com/: ng8hqk
+POST Data for http://www.investingtopix.com/: reg_username=testsup410&reg_email=you_know_who_13%40rocketmail.com&reg_password2=spmprx&submit=Register+Account&token=&security_code=ng8hqk&regfrom=full&reg_password=spmprx
+Trying to follow email link: http://ultrana.com/validation.php?code=b1f5533228d25e065263b4e55866dc89&uid=testsup24
+The registration process may or may not have been successful.
+Trying to follow email link: http://ultrana.com
+Trying to follow email link: http://www.usajobs.am/validation.php?code=7b5cb2a4a5e762a3a4a2ab0df3f1ad19&uid=testsup30
+Trying to follow email link: http://www.usajobs.am
+Trying to follow email link: http://www.freebookmarkmanager.com/validation.php?code=e4a006fdc2c0aa393bcda7fbe842da5a&uid=testsup30
+Trying to follow email link: http://www.freebookmarkmanager.com
+Trying to follow email link: http://www.ohter.com/validation.php?code=d5dd61ec1dc3d68c64e9e23b3879fecf&uid=testsup28
+Trying to follow email link: http://www.ohter.com
+Trying to follow email link: http://www.freehotlinksdirectory.com/validation.php?code=6d323668c3dc261ba214978852230eb3&uid=testsup30
+Trying to follow email link: http://www.freehotlinksdirectory.com
+Trying to follow email link: http://afriweb.org/validation.php?code=1c4c057a345560a12658981ebbce1521&uid=testsup43
+Trying to follow email link: http://afriweb.org
+Trying to follow email link: http://mmainfuzion.com/validation.php?code=e12fbadee4fa9e8bd286ac48cf57c10a&uid=testsup28
+Could not follow email link http://mmainfuzion.com/validation.php?code=e12fbadee4fa9e8bd286ac48cf57c10a&uid=testsup28 - Error: HTTP Error 404: Not Found
+Trying to follow email link: http://mmainfuzion.com
+Trying to follow email link: http://neosocial.info/validation.php?code=f476a3c6edb1303a21d7904d42439423&uid=testsup26
+Trying to follow email link: http://neosocial.info
+Trying to follow email link: http://livesocial.info/validation.php?code=7bda2e0fa2f2269c5bbc99e75ff1f90e&uid=testsup24
+Trying to follow email link: http://livesocial.info
+Trying to follow email link: http://watsaround.com/validation.php?code=5438380d86793cb76687dbe2967772e0&uid=testsup30
+Trying to follow email link: http://watsaround.com
+Trying to follow email link: http://so-best.com/validation.php?code=2756794291b5eb8db5abda71c897d083&uid=testsup25
+Trying to follow email link: http://so-best.com
+Trying to follow email link: http://www.ummahbuzz.com/validation.php?code=feae5805515bdae2db9059fcf3074d0f&uid=testsup42
+Trying to follow email link: http://www.ummahbuzz.com
+Trying to follow email link: http://www.thesparringrepublican.com/validation.php?code=e2352877c992c85961fedc02047ca99d&uid=testsup23
+Trying to follow email link: http://www.thesparringrepublican.com
+Trying to follow email link: http://top-social.com/validation.php?code=a7f1c364f903150bd63709cdf6482f9f&uid=testsup29
+Trying to follow email link: http://top-social.com
+Trying to follow email link: http://www.usajobs.am/login.php
+Trying to follow email link: http://noticiaporno.com/login.php
+Trying to follow email link: http://neosocial.info/login.php
+Trying to follow email link: http://www.freehotlinksdirectory.com/login.php
+Trying to follow email link: http://diigme.com/login.php
+Trying to follow email link: http://brightwerks.com/validation.php?code=3a8c038a5d53b56f5a7065765c6a8556&uid=testsup24
+Trying to follow email link: http://brightwerks.com
+Trying to follow email link: http://linkbookmarks.info/validation.php?code=c97438c8ee42fbb4766ccee2eceaec3f&uid=testsup28
+Trying to follow email link: http://linkbookmarks.info
+Trying to follow email link: http://www.healthtechlive.com/validation.php?code=2078768976e50c642a6f57e347f23a69&uid=testsup23
+Trying to follow email link: http://www.healthtechlive.com
+Trying to follow email link: http://www.eschatonomy.com/validation.php?code=c9f12143a81d9de252bd96a4baef3c61&uid=testsup24
+Trying to follow email link: http://www.eschatonomy.com
+Trying to follow email link: http://www.malayalams.com/validation.php?code=c5e168e05e9f7df9e7c3d55a96a045aa&uid=testsup24
+Trying to follow email link: http://www.malayalams.com
+Trying to follow email link: http://www.thesparringrepublican.com/login.php
+Trying to follow email link: http://www.ummahbuzz.com/login.php
+Trying to follow email link: http://www.youthgroup.net/validation.php?code=9a38e01b64a4575186d77c88d0b0ea7a&uid=testsup28
+Trying to follow email link: http://www.youthgroup.net
+Trying to follow email link: http://ziovex.com/validation.php?code=ea63dfbe98ef11eff204adb7152df609&uid=testsup28
+Trying to follow email link: http://ziovex.com
+Trying to follow email link: http://telesmatic.com/module.php?module=registration_email&username=testsup20&conf=77b0eac85cd9184f91a635fde33f74216b36c7cbb0e95f524
+Trying to follow email link: http://www.thexyz.in/login.php
+Trying to follow email link: http://www.ideabrewery.org/validation.php?code=3106255b77cdd67012eb2e5eee11868d&uid=testsup28
+Trying to follow email link: http://www.ideabrewery.org
+Trying to follow email link: http://diigme.com/validation.php?code=db2986eb9167fe1a5b7a8ae2a8a9ad57&uid=testsup28
+Trying to follow email link: http://diigme.com\r\n\r\nEnjoy!\r\n\r\nYour
+Could not follow email link http://diigme.com\r\n\r\nEnjoy!\r\n\r\nYour - Error: <urlopen error (11001, 'getaddrinfo failed')>
+Trying to follow email link: http://www.droidblast.com/validation.php?code=9096a160ab2871b88857c5e01b263466&uid=testsup28
+Trying to follow email link: http://www.droidblast.com
+NEXT PAGE URL: http://in.mg50.mail.yahoo.com/neo/launch?.rand=7rk176oe2g1eh
+Trying to follow email link: http://vote.uponinter.net/validation.php?code=3d1a3e31b9a0e059686e2538995794ef&uid=testsup30
+Trying to follow email link: http://vote.uponinter.net
+Trying to follow email link: http://yoogr.com/login.php
+Trying to follow email link: http://www.share-a-porn.com/validation.php?code=5d456038f2fc93ef8f652ffc9ddf17f0&uid=testsup28
+Trying to follow email link: http://www.share-a-porn.com
+Trying to follow email link: http://www.thexyz.in/validation.php?code=8fda02c88e45157112caafbf85c1f2a2&uid=testsup28
+Trying to follow email link: http://www.thexyz.in
+Trying to follow email link: http://www.ohter.com/login.php
+Trying to follow email link: http://afriweb.org/login.php
+Trying to follow email link: http://xn--72c3adabaak9fc6cb3a0c0dg7ce1s9c8cbfe.net/validation.php?code=3dfd6cbe5ff1b19a85ce8c54d91c1d66&uid=testsup23
+Trying to follow email link: http://xn--72c3adabaak9fc6cb3a0c0dg7ce1s9c8cbfe.net
+Trying to follow email link: http://www.share-a-porn.com/login.php
+Trying to follow email link: http://yoogr.com/validation.php?code=033f8f56a3f9cea3a75830183374aebf&uid=testsup423
+Trying to follow email link: http://yoogr.com
+Trying to follow email link: http://www.specialbookmark.com/login.php
+Trying to follow email link: http://ultrana.com/validation.php?code=b1f5533228d25e065263b4e55866dc89&uid=testsup24
+Trying to follow email link: http://ultrana.com
+Trying to follow email link: http://www.usajobs.am/validation.php?code=7b5cb2a4a5e762a3a4a2ab0df3f1ad19&uid=testsup30
+Trying to follow email link: http://www.usajobs.am
+Trying to follow email link: http://www.freebookmarkmanager.com/validation.php?code=e4a006fdc2c0aa393bcda7fbe842da5a&uid=testsup30
+Trying to follow email link: http://www.freebookmarkmanager.com
+Trying to follow email link: http://www.ohter.com/validation.php?code=d5dd61ec1dc3d68c64e9e23b3879fecf&uid=testsup28
+Trying to follow email link: http://www.ohter.com
+Trying to follow email link: http://www.freehotlinksdirectory.com/validation.php?code=6d323668c3dc261ba214978852230eb3&uid=testsup30
+Trying to follow email link: http://www.freehotlinksdirectory.com
+Trying to follow email link: http://afriweb.org/validation.php?code=1c4c057a345560a12658981ebbce1521&uid=testsup43
+Trying to follow email link: http://afriweb.org
+Trying to follow email link: http://mmainfuzion.com/validation.php?code=e12fbadee4fa9e8bd286ac48cf57c10a&uid=testsup28
+Could not follow email link http://mmainfuzion.com/validation.php?code=e12fbadee4fa9e8bd286ac48cf57c10a&uid=testsup28 - Error: HTTP Error 404: Not Found
+Trying to follow email link: http://mmainfuzion.com
+Trying to follow email link: http://neosocial.info/validation.php?code=f476a3c6edb1303a21d7904d42439423&uid=testsup26
+Trying to follow email link: http://neosocial.info
+Trying to follow email link: http://livesocial.info/validation.php?code=7bda2e0fa2f2269c5bbc99e75ff1f90e&uid=testsup24
+Trying to follow email link: http://livesocial.info
+Trying to follow email link: http://watsaround.com/validation.php?code=5438380d86793cb76687dbe2967772e0&uid=testsup30
+Trying to follow email link: http://watsaround.com
+Trying to follow email link: http://so-best.com/validation.php?code=2756794291b5eb8db5abda71c897d083&uid=testsup25
+Trying to follow email link: http://so-best.com
+Trying to follow email link: http://www.ummahbuzz.com/validation.php?code=feae5805515bdae2db9059fcf3074d0f&uid=testsup42
+Trying to follow email link: http://www.ummahbuzz.com
+Trying to follow email link: http://www.thesparringrepublican.com/validation.php?code=e2352877c992c85961fedc02047ca99d&uid=testsup23
+Trying to follow email link: http://www.thesparringrepublican.com
+Trying to follow email link: http://top-social.com/validation.php?code=a7f1c364f903150bd63709cdf6482f9f&uid=testsup29
+Trying to follow email link: http://top-social.com
+Trying to follow email link: http://www.usajobs.am/login.php
+Trying to follow email link: http://noticiaporno.com/login.php
+Trying to follow email link: http://neosocial.info/login.php
+Trying to follow email link: http://www.freehotlinksdirectory.com/login.php
+Trying to follow email link: http://diigme.com/login.php
+Trying to follow email link: http://brightwerks.com/validation.php?code=3a8c038a5d53b56f5a7065765c6a8556&uid=testsup24
+Trying to follow email link: http://brightwerks.com
+Trying to follow email link: http://linkbookmarks.info/validation.php?code=c97438c8ee42fbb4766ccee2eceaec3f&uid=testsup28
+Trying to follow email link: http://linkbookmarks.info
+Trying to follow email link: http://www.healthtechlive.com/validation.php?code=2078768976e50c642a6f57e347f23a69&uid=testsup23
+Trying to follow email link: http://www.healthtechlive.com
+Trying to follow email link: http://www.eschatonomy.com/validation.php?code=c9f12143a81d9de252bd96a4baef3c61&uid=testsup24
+Trying to follow email link: http://www.eschatonomy.com
+Trying to follow email link: http://www.malayalams.com/validation.php?code=c5e168e05e9f7df9e7c3d55a96a045aa&uid=testsup24
+Trying to follow email link: http://www.malayalams.com
+Trying to follow email link: http://www.thesparringrepublican.com/login.php
+Trying to follow email link: http://www.ummahbuzz.com/login.php
+Trying to follow email link: http://www.youthgroup.net/validation.php?code=9a38e01b64a4575186d77c88d0b0ea7a&uid=testsup28
+Trying to follow email link: http://www.youthgroup.net
+Trying to follow email link: http://ziovex.com/validation.php?code=ea63dfbe98ef11eff204adb7152df609&uid=testsup28
+Trying to follow email link: http://ziovex.com
+Trying to follow email link: http://telesmatic.com/module.php?module=registration_email&username=testsup20&conf=77b0eac85cd9184f91a635fde33f74216b36c7cbb0e95f524
+Trying to follow email link: http://www.thexyz.in/login.php
+Trying to follow email link: http://www.ideabrewery.org/validation.php?code=3106255b77cdd67012eb2e5eee11868d&uid=testsup28
+Trying to follow email link: http://www.ideabrewery.org
+Trying to follow email link: http://diigme.com/validation.php?code=db2986eb9167fe1a5b7a8ae2a8a9ad57&uid=testsup28
+Trying to follow email link: http://diigme.com\r\n\r\nEnjoy!\r\n\r\nYour
+Could not follow email link http://diigme.com\r\n\r\nEnjoy!\r\n\r\nYour - Error: <urlopen error (11001, 'getaddrinfo failed')>
+Trying to follow email link: http://www.droidblast.com/validation.php?code=9096a160ab2871b88857c5e01b263466&uid=testsup28
+Trying to follow email link: http://www.droidblast.com
+NEXT PAGE URL: http://in.mg50.mail.yahoo.com/ws/mail/v2.0/formrpc?appid=YahooMailNeo&m=ListMessages&o=json&fid=Inbox&sortKey=date&sortOrder=down&startInfo=25&numInfo=50&wssid=56g/hWumhJp
+There is no next page.
+Number of sites to post to: 20
+Attempting to post to http://workclicks.com/ using username 'testsup42' and password 'spmprx'
+Attempting to post to http://www.21funnycommercials.com/ using username 'testsup42' and password 'spmprx'
+Attempting to post to http://sevensmarketing.com/ using username 'testsup464' and password 'spmprx'
+Attempting to post to http://womenselfesteem.proboards.com/ using username 'testsup42' and password 'spmprx'
+Attempting to login into http://www.21funnycommercials.com/ through login interface page at http://www.21funnycommercials.com/login.php
+Using credentials testsup42, spmprx
+Login POST data for 'http://www.21funnycommercials.com': 'username=testsup42&processlogin=1&password=spmprx&return=&password2=spmprx'
+Attempting to post to http://telesmatic.com/ using username 'testsup464' and password 'spmprx'
+Attempting to login into http://workclicks.com/ through login interface page at http://workclicks.com/login.php
+Using credentials testsup42, spmprx
+Login POST data for 'http://workclicks.com': 'username=testsup42&processlogin=1&password=spmprx&return='
+Could not fetch the login page... Error: HTTP Error 404: Not Found
+Attempting to post to http://www.agoodjoke.com/ using username 'testsup42' and password 'spmprx'
+Redirecting to 'http://www.21funnycommercials.com/' on login POST request for 'http://www.21funnycommercials.com'
+Attempting to login into http://telesmatic.com/ through login interface page at http://telesmatic.com/login.php
+Using credentials testsup464, spmprx
+Attempting to login into http://sevensmarketing.com/ through login interface page at http://sevensmarketing.com/login.php
+Using credentials testsup464, spmprx
+No redirection on login POST request for 'http://workclicks.com'
+Login POST data for 'http://sevensmarketing.com': 'username=testsup464&processlogin=1&password=spmprx&return='
+Not sure if login was successful in http://workclicks.com
+Could not get the submit story page in the current content. Guess the url would be http://workclicks.com/submit.php
+Trying to fetch the story submission interface from http://workclicks.com/submit.php...
+Login POST data for 'http://telesmatic.com': 'username=testsup464&processlogin=1&password=spmprx&return=&password2=spmprx'
+Successfully logged into http://www.21funnycommercials.com
+Could not get the submit story page in the current content. Guess the url would be http://www.21funnycommercials.com/submit.php
+Trying to fetch the story submission interface from http://www.21funnycommercials.com/submit.php...
+Attempting to login into http://www.agoodjoke.com/ through login interface page at http://www.agoodjoke.com/login.php
+Using credentials testsup42, spmprx
+No redirection on login POST request for 'http://sevensmarketing.com'
+No redirection on login POST request for 'http://telesmatic.com'
+Login POST data for 'http://www.agoodjoke.com': 'username=testsup42&processlogin=1&password=spmprx&return='
+Not sure if login was successful in http://telesmatic.com
+Negotiating step #1 of story submission for 'http://workclicks.com'.
+Could not fetch the form in step #1 of story post for http://workclicks.com
+Trying to fetch the story submission interface from http://telesmatic.com/submit...
+Negotiating step #1 of story submission for 'http://www.21funnycommercials.com'.
+Negotiating step #1 of story submission for 'http://telesmatic.com'.
+Could not fetch the form in step #1 of story post for http://telesmatic.com
+Encoded Step #1 data for http://www.21funnycommercials.com: randkey=3924882&tags=&url=http%3A%2F%2Fcode.google.com%2Fappengine%2Fdocs%2Fpython%2Fappidentity%2Ffunctions.html&title=&phase=2&id=52524
+No redirection on login POST request for 'http://www.agoodjoke.com'
+Not sure if login was successful in http://sevensmarketing.com
+Could not get the submit story page in the current content. Guess the url would be http://sevensmarketing.com/submit.php
+Trying to fetch the story submission interface from http://sevensmarketing.com/submit.php...
+Negotiating step #1 of story submission for 'http://sevensmarketing.com'.
+Could not fetch the form in step #1 of story post for http://sevensmarketing.com
+Not sure if login was successful in http://www.agoodjoke.com
+Could not get the submit story page in the current content. Guess the url would be http://www.agoodjoke.com/submit.php
+Trying to fetch the story submission interface from http://www.agoodjoke.com/submit.php...
+Could not clear step #1 - Could not identify the reason
+Negotiating step #1 of story submission for 'http://www.agoodjoke.com'.
+Could not fetch the form in step #1 of story post for http://www.agoodjoke.com
+recv(): connection lost
+recv(): connection lost
